@@ -1,0 +1,1821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Optimizer\n"
+"POT-Creation-Date: 2015-09-21 02:41+0600\n"
+"PO-Revision-Date: 2015-09-21 02:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: Layerthemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp2\\htdocs\\optimizer\\wp-content\\themes"
+"\\optimizer\n"
+
+msgid "Page Not Found"
+msgstr ""
+
+msgid ""
+"Server cannot find the file you requested. The Page has either been moved or "
+"deleted, or you entered the wrong URL or document name. Look at the URL. If "
+"a word looks misspelled, then correct it and try it again. If that doesnt "
+"work You can try our search option to find what you are looking for."
+msgstr ""
+
+msgid "Posts by "
+msgstr ""
+
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+msgid "No Responses"
+msgstr ""
+
+msgid "One Response"
+msgstr ""
+
+msgid "% Responses"
+msgstr ""
+
+msgid "Trackbacks &amp; Pings"
+msgstr ""
+
+msgid "Comments are closed."
+msgstr ""
+
+msgid "Footer Widgets"
+msgstr ""
+
+msgid "Header Navigation"
+msgstr ""
+
+msgid "You can Replace this Posts Section with Optimizer Widgets."
+msgstr ""
+
+msgid "Add Widgets"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+msgid "Total posts found - "
+msgstr ""
+
+msgid "0 Comment"
+msgstr ""
+
+msgid "1 Comment"
+msgstr ""
+
+msgid "% Comments"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Why PRO?"
+msgstr ""
+
+msgid "Demos"
+msgstr ""
+
+msgid "Free vs PRO"
+msgstr ""
+
+msgid "OPTMIZER PRO"
+msgstr ""
+
+msgid "UNLOCK THE TRUE POWER OF OPTIMIZER"
+msgstr ""
+
+msgid "Extremely Customizable | Easy To Use | Lifetime Support"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "PRO Features"
+msgstr ""
+
+msgid "Upgrade to Unlock These Features"
+msgstr ""
+
+msgid "5 Sliders"
+msgstr ""
+
+msgid ""
+"With Optimizer you are not limited with only one slider. You have the option "
+"to choose from 5 sliders. Each of them comes with customizing options."
+msgstr ""
+
+msgid "10 Frontpage Elements"
+msgstr ""
+
+msgid ""
+"Optimizer comes with 10 frontpage elements that are extremely customize. You "
+"can display About section, Call to Action, Map, Testimonials, Newsletter and "
+"Many More."
+msgstr ""
+
+msgid "100% Responsive"
+msgstr ""
+
+msgid ""
+"Optimizer is 100% Responsive &amp; Retina Ready. Your site will be displayed "
+"beautifully and crisp on all devices."
+msgstr ""
+
+msgid "Unlimited Colors"
+msgstr ""
+
+msgid ""
+"With Optimizer you have the ability to change all the colors of all the "
+"elements of the theme with easy to use theme options panel."
+msgstr ""
+
+msgid "6 Menu Styles"
+msgstr ""
+
+msgid ""
+"Who wants to show just bland text as a menu? In Optimizer, you can display "
+"Icons as a menu, add a description or show Icon, description, Menu Item all "
+"altogether."
+msgstr ""
+
+msgid "5 Posts Layouts"
+msgstr ""
+
+msgid ""
+"The Theme lets you select 5 layouts for your frontpage posts and your "
+"category page posts. Each layouts with advance options."
+msgstr ""
+
+msgid "3 Blog Layouts"
+msgstr ""
+
+msgid ""
+"3  beautifully designed blog layouts to choose from; Change the way you "
+"display your blog posts.  Each layout added with options to select "
+"categories &amp; defining the number of posts."
+msgstr ""
+
+msgid "3 Gallery Types"
+msgstr ""
+
+msgid ""
+"3 magnificent designed gallery types with each added with lots of cool "
+"features."
+msgstr ""
+
+msgid "6 Page Templates"
+msgstr ""
+
+msgid ""
+"Why show the pages in boring 1 layout, use 6 beautiful pre-made page "
+"templates that comes with the theme. This also includes easy to setup "
+"Contact page template."
+msgstr ""
+
+msgid "30 Widgets"
+msgstr ""
+
+msgid ""
+"Amazing and useful widgets to make your life easier. E.g. Custom Ad, "
+"Countdown, social widgets, slider, video widgets, Advanced Text Widget, "
+"Login Widget and many more."
+msgstr ""
+
+msgid "40 Shortcodes"
+msgstr ""
+
+msgid ""
+"Long list of useful &amp; unique shortcodes guaranteed to make your content "
+"an eye candy. Shortcode for content, boxes, button, slider, image, video, "
+"pricing table.  Plus, we built a preview option to make your publishing "
+"easier."
+msgstr ""
+
+msgid "600+ Google Fonts"
+msgstr ""
+
+msgid ""
+"Select fonts from the wide range font collection of 667 beautiful Google "
+"fonts and assign it anywhere. Customize color,set style for each font and "
+"pair one font with another amazing font. "
+msgstr ""
+
+msgid "Translations"
+msgstr ""
+
+msgid ""
+"Optimizer is Translation ready and Translated in 10 languages. Its also made "
+"compatible with WPML, qTranslate, Polylang and other wordpress multilanguage "
+"Plugin."
+msgstr ""
+
+msgid "Sticky Header"
+msgstr ""
+
+msgid ""
+"Sticky menus are proved to be 22% quicker to navigate.Users do not have to "
+"scroll back to the top of the page anymore to find important menu items."
+msgstr ""
+
+msgid "Top bar"
+msgstr ""
+
+msgid ""
+"Slick semi-transparent bar at the top section for displaying a host of "
+"navigational items; Menu, Phone No, Social Links, Search Bar and many more."
+msgstr ""
+
+msgid "Advanced Header Options"
+msgstr ""
+
+msgid ""
+"Lots of features for customizing the header of your site. Make the header "
+"transparent,stick the header to top, upload your own logo and many more."
+msgstr ""
+
+msgid "Custom Page Header"
+msgstr ""
+
+msgid ""
+"In Optimizer you have the options to set custom image header on each page of "
+"your site or set colorful header."
+msgstr ""
+
+msgid "Custom Page Background"
+msgstr ""
+
+msgid ""
+"If you want your page or posts background to reflect the content of the post "
+"or page. Look no further, In Optimizer you can set unique background for "
+"each post or page."
+msgstr ""
+
+msgid "Custom Font Upload"
+msgstr ""
+
+msgid ""
+"Upload and install any font using the theme's font Uploader and use them for "
+"your site title, page and site content."
+msgstr ""
+
+msgid "Social Share"
+msgstr ""
+
+msgid ""
+"Include Floating share bar for every post and position them anywhere you "
+"like; besides the post, after post or before the start of the post. The "
+"Shared posts/pages are also beautifully displayed on social network sites "
+"too."
+msgstr ""
+
+msgid "Customizable Social Icons"
+msgstr ""
+
+msgid ""
+"Display your favorite social network pages in the footer, sidebar and "
+"customize how you want them to look."
+msgstr ""
+
+msgid "SEO Options"
+msgstr ""
+
+msgid ""
+"Without search engine traffic, it's difficult for any business to succeed. "
+"To ensure this, we carefully crafted our code following the best SEO "
+"practices. Our code went through validation checks and we implemented lots "
+"of cool SEO features plus you can even put your Google Analytics tracking "
+"code from the Optimizer Options."
+msgstr ""
+
+msgid "Favicon Upload"
+msgstr ""
+
+msgid ""
+"You don't want to show default WordPress favicon to your users; Upload your "
+"own logo as the favicon and keep your brand image consistent throughout the "
+"site."
+msgstr ""
+
+msgid "Unlimited Sidebars"
+msgstr ""
+
+msgid ""
+"Make an unlimited number of sidebars and use it as your content of the post "
+"or page demands. Be it for offer page, pricing page or any other you will "
+"have a sidebar lining up for every situation."
+msgstr ""
+
+msgid "Sidebar Per Page"
+msgstr ""
+
+msgid ""
+"Make the best use of sidebars, create unlimited sidebars and assign each of "
+"them to different posts or pages. Disable sidebar for any single post or "
+"page, if you don't want to show any."
+msgstr ""
+
+msgid "5 Navigation Type"
+msgstr ""
+
+msgid ""
+"In Optimizer you have the option to set Navigate posts without refreshing "
+"the posts, Numbered navigation, infinite scroll and many more."
+msgstr ""
+
+msgid "About The Author"
+msgstr ""
+
+msgid ""
+"Give your posts a lift, add some personality. Display awesome author "
+"picture, description &amp; links below the posts the author wrote."
+msgstr ""
+
+msgid "Related Posts"
+msgstr ""
+
+msgid ""
+"In Optimizer, you can display lists of related posts after every post and "
+"you can finally keep the bounce rate in check."
+msgstr ""
+
+msgid "Amazing Customer Support"
+msgstr ""
+
+msgid ""
+"We take pride in our amazing customer support. We are heavily focused on the "
+"quality of our support. In our Premium support forum, we quickly resolve any "
+"users question."
+msgstr ""
+
+msgid "1 Click Demo Imports"
+msgstr ""
+
+msgid ""
+"We have been asked by lots of people about how to make their site exactly "
+"look like the demo. So we have built a demo site importer from Optimizer "
+"Options, one click and everything will be taken care of."
+msgstr ""
+
+msgid "Maintenance Mode"
+msgstr ""
+
+msgid ""
+"With Optimizer Pro you can easily activate Maintenance Mode, which lets you "
+"make chages to your site and let you display a nice message Saying your site "
+"is under construction at the same time"
+msgstr ""
+
+msgid "Advanced Woocommerce Options"
+msgstr ""
+
+msgid ""
+"Optimizer comes with Advanced Woocommerce Options that make the theme "
+"perfect for e-commerce sites. You can zoom product image on hover and "
+"display product slider on frontpage."
+msgstr ""
+
+msgid ""
+"With Optimizer PRO the outcome is unlimited. These Demos below are made with "
+"Optimizer PRO within hours and without touching any code of the theme. In "
+"PRO version you can import any of these demo with one click to make your "
+"site look exactly like the demo."
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "Optimizer Free"
+msgstr ""
+
+msgid "Optimizer PRO"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "Front Page Elements"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "10"
+msgstr ""
+
+msgid "Posts Layouts"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "Blog Layouts"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "Gallery Types"
+msgstr ""
+
+msgid "Shortcodes"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "40"
+msgstr ""
+
+msgid "Widgets"
+msgstr ""
+
+msgid "30"
+msgstr ""
+
+msgid "Widget Areas"
+msgstr ""
+
+msgid "Menu Positions"
+msgstr ""
+
+msgid "Page Templates"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "Blocks Layout"
+msgstr ""
+
+msgid "Posts Navigation Type"
+msgstr ""
+
+msgid "Social Share buttons Styles"
+msgstr ""
+
+msgid "Header Customization"
+msgstr ""
+
+msgid "Topbar"
+msgstr ""
+
+msgid "Advanced Styling"
+msgstr ""
+
+msgid "Custom background per Page"
+msgstr ""
+
+msgid "Custom Header per Page"
+msgstr ""
+
+msgid "About The Author Module"
+msgstr ""
+
+msgid "Fully Responsive"
+msgstr ""
+
+msgid "Retina Ready"
+msgstr ""
+
+msgid "Woocommerce Support"
+msgstr ""
+
+msgid "Woocommerce Product Zoom"
+msgstr ""
+
+msgid "Woocommerce Product Slider"
+msgstr ""
+
+msgid "Optimized for Speed"
+msgstr ""
+
+msgid "Advanced Documentation"
+msgstr ""
+
+msgid "Priority support in Forum"
+msgstr ""
+
+msgid "Upgrade To PRO"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Front Page"
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid "Post & Page"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Site Layout"
+msgstr ""
+
+msgid "Basic Style"
+msgstr ""
+
+msgid "Basic Fonts"
+msgstr ""
+
+msgid "Create Sidebars"
+msgstr ""
+
+msgid "Site Title & Logo"
+msgstr ""
+
+msgid "Menu "
+msgstr ""
+
+msgid "Front Page Settings"
+msgstr ""
+
+msgid "Posts Settings"
+msgstr ""
+
+msgid ""
+"To view the live changes you make in this section, select \"Single Post\" "
+"from the Top bar dropdown list located at the top right corner of the screen."
+msgstr ""
+
+msgid "Page Header Settings"
+msgstr ""
+
+msgid ""
+"To view the live changes you make in this section, select a page from the "
+"Top bar dropdown list located at the top right corner of the screen."
+msgstr ""
+
+msgid "Blog Page Settings"
+msgstr ""
+
+msgid ""
+"Applies only to the page created with the Blog Page Template (Setting up a "
+"Blog Page)."
+msgstr ""
+
+msgid "Contact Page Settings"
+msgstr ""
+
+msgid ""
+"Applies only to the page created with the Contact Page Template (Setting up "
+"a Contact Page)."
+msgstr ""
+
+msgid "Social Share Buttons"
+msgstr ""
+
+msgid ""
+"To view the live changes you make in this section, select a post or a page "
+"from the Top bar dropdown list located at the top right corner of the screen."
+msgstr ""
+
+msgid "Post & Page Style"
+msgstr ""
+
+msgid "Category & Archive Page"
+msgstr ""
+
+msgid ""
+"To view the live changes you make in this section, select \"Category or Tag "
+"Page\" from the Top bar dropdown list located at the top right corner of the "
+"screen."
+msgstr ""
+
+msgid "Footer Style"
+msgstr ""
+
+msgid "Copyright Area"
+msgstr ""
+
+msgid "Social Links"
+msgstr ""
+
+msgid "Social Bookmark Links Settings"
+msgstr ""
+
+msgid "Media Settings"
+msgstr ""
+
+msgid "Meida Settings"
+msgstr ""
+
+msgid "SEO Settings"
+msgstr ""
+
+msgid "Mobile Layout"
+msgstr ""
+
+msgid "Hide Items From the Mobile Version of Your Site"
+msgstr ""
+
+msgid "Custom Code"
+msgstr ""
+
+msgid "Other Settings"
+msgstr ""
+
+msgid "Site Background Color"
+msgstr ""
+
+msgid "Site Background Image"
+msgstr ""
+
+msgid "Does not affect the front page if the Site Layout is set to Full-Width."
+msgstr ""
+
+msgid "Add Widget"
+msgstr ""
+
+msgid "Site Title Font"
+msgstr ""
+
+msgid "Headings, Menu and Post Titles Font"
+msgstr ""
+
+msgid "Site Content Font"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Button 1"
+msgstr ""
+
+msgid "Button 2"
+msgstr ""
+
+msgid "Slideshow"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Switch Theme"
+msgstr ""
+
+msgid "Your Sidebars"
+msgstr ""
+
+msgid "Static Slide Settings"
+msgstr ""
+
+msgid "Nivo / Accordion Slider Settings"
+msgstr ""
+
+msgid "Upgrade to PRO to Unlock this Widget"
+msgstr ""
+
+msgid "Optimizer Widgets"
+msgstr ""
+
+msgid "Other Widgets"
+msgstr ""
+
+msgid "Save and close"
+msgstr ""
+
+msgid "SETTINGS"
+msgstr ""
+
+msgid "Import Dummy Content"
+msgstr ""
+
+msgid ""
+"Add Dummy Content(Widgets) to your Frontpage. After Importing you can edit "
+"them from Widgets > Frontpage Sections"
+msgstr ""
+
+msgid "Reset Options"
+msgstr ""
+
+msgid ""
+"Reset Options to default theme settings. All your current theme settings "
+"will be lost except the widgets settings."
+msgstr ""
+
+msgid "Do you really want to Reset? All your Theme Settings will be lost."
+msgstr ""
+
+msgid "Export Options"
+msgstr ""
+
+msgid "Backup Current Theme Settings. Your Widget settings wont be exported."
+msgstr ""
+
+msgid "Import Options"
+msgstr ""
+
+msgid "Import Options from a backup (json) file."
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Optimizer Tour"
+msgstr ""
+
+msgid "Take the welcome tour and get acquainted with the theme."
+msgstr ""
+
+msgid "Presets"
+msgstr ""
+
+msgid ""
+"With Optimizer PRO you can easily import presets to your site with just one "
+"click."
+msgstr ""
+
+msgid "Demo"
+msgstr ""
+
+msgid "Import (PRO)"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid ""
+"Please Click the \"Convert\" Button to Update to the Latest version of the "
+"theme."
+msgstr ""
+
+msgid "Convert"
+msgstr ""
+
+msgid "Welcome to Optimizer"
+msgstr ""
+
+msgid "PRO version"
+msgstr ""
+
+msgid ""
+"Creating websites with Optimizer is super easy and fun. In next steps, "
+"you'll see how easy it is to customizer your site and see the changes live "
+"without jumping between windows."
+msgstr ""
+
+msgid "Start the Tour"
+msgstr ""
+
+msgid "Customization Area"
+msgstr ""
+
+msgid ""
+"The Customization Area is located on the left panel of the screen. Each time "
+"you want to add or customize an element, you can do that from here."
+msgstr ""
+
+msgid ""
+"You can easily move to different Sections of the Options panel by hovering "
+"over the Quick Links Bar located on the very left. You can also use the "
+"Optimizer Logo <i class=\"touroptimlogo\"></i> as back button when you are "
+"inside a Section."
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Instant Preview"
+msgstr ""
+
+msgid ""
+"Whenever you make changes to the theme from the Customization Area, you will "
+"see the changes live on the right side."
+msgstr ""
+
+msgid "Adding Content to Frontpage"
+msgstr ""
+
+msgid ""
+"Lets look at the different parts of the frontpage and how you can add "
+"content to them:"
+msgstr ""
+
+msgid "Static Slider"
+msgstr ""
+
+msgid "You can edit the Static Slider from Frontpage > Slider"
+msgstr ""
+
+msgid "Frontpage Widgets"
+msgstr ""
+
+msgid ""
+"The Main body of the Frontpage is a widget area. You can add widgets to this "
+"area from Frontpage > Frontpage Content."
+msgstr ""
+
+msgid "You can easily Add Widgets to this area from Footer > Footer Widgets."
+msgstr ""
+
+msgid "Preview Navigation Bar"
+msgstr ""
+
+msgid ""
+"You can quickly navigate to different pages of your site from this top "
+"navigation bar. You can hide it anytime by clicking the arrow button beside "
+"it."
+msgstr ""
+
+msgid "End of Tour"
+msgstr ""
+
+msgid "That's all! We Hope you like the Theme :) "
+msgstr ""
+
+msgid "You can take this tour anytime from Footer Links > Settings"
+msgstr ""
+
+msgid "End Tour"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Single Post"
+msgstr ""
+
+msgid "Category Page"
+msgstr ""
+
+msgid "Tag Page"
+msgstr ""
+
+msgid "Archive Page"
+msgstr ""
+
+msgid "Author Page"
+msgstr ""
+
+msgid "Search Page"
+msgstr ""
+
+msgid "404 Page"
+msgstr ""
+
+msgid "Posts:"
+msgstr ""
+
+msgid "Other:"
+msgstr ""
+
+msgid "Add Widgets Here"
+msgstr ""
+
+msgid "About Optimizer"
+msgstr ""
+
+msgid "Optimizer"
+msgstr ""
+
+msgid "Free Support"
+msgstr ""
+
+msgid "Only Friday & Saturday"
+msgstr ""
+
+msgid "PRO Support"
+msgstr ""
+
+msgid "24/7 Instant Support"
+msgstr ""
+
+msgid ""
+"Customize your website live with our improved customizer, which cuts down "
+"the website building time in half."
+msgstr ""
+
+msgid "Customize"
+msgstr ""
+
+msgid ""
+"Optimizer is extensively documented. You will find useful information about "
+"the theme ranging from introductions to advanced features."
+msgstr ""
+
+msgid ""
+"Unlock the true power of the Optimizer by upgrading to Pro. Pro has no "
+"Frontpage Widgets Limit, 8 Front Page Elements, 60 more powerful options  & "
+"24/7 Support."
+msgstr ""
+
+msgid "Remove Frontpage Widgets Limit"
+msgstr ""
+
+msgid ""
+"Currently you can add only 4 widgets on frontpage. But In Optimizer PRO "
+"there are no limits, you can <b>Add unlimited widgets on Frontpage</b>."
+msgstr ""
+
+msgid "Add Frontpage Widgets on Any Pages"
+msgstr ""
+
+msgid ""
+"Currently you can only create the frontpage with drag and drop widgets. With "
+"PRO you can <b>Create any page with drag and drop widgets</b> and make each "
+"page unique."
+msgstr ""
+
+msgid "18 Frontpage Widgets"
+msgstr ""
+
+msgid ""
+"With PRO you will get <b>14 more widgets</b>: Slider Widget, Call to action "
+"widget, Testimonial Widget, Contact Widget, Video Widget, Clients Logo "
+"Widget and Many more. In addition, your existing widgets will be updated "
+"with more options to make them more flexible."
+msgstr ""
+
+msgid "More Advanced Options"
+msgstr ""
+
+msgid ""
+"With Optimizer PRO you can create any kind of sites with only a few clicks. "
+"The PRO version is updated with <b>60 more powerful options</b> that "
+"transform the theme into a powerhouse."
+msgstr ""
+
+msgid "Custom Page header & Page Backgrounds"
+msgstr ""
+
+msgid ""
+"With PRO you are able to add Images to your Page Headers. You can also "
+"<b>Create unique page header for each page</b> and make the page "
+"incomparable."
+msgstr ""
+
+msgid "Priority Support"
+msgstr ""
+
+msgid ""
+"For Optimizer Free, we only provide support on weekends on official "
+"wordrpress.org support forum. <b>For Optimizer PRO users, we provide 24/7 "
+"instant support</b> on our dedicated support forum."
+msgstr ""
+
+msgid "Other Features"
+msgstr ""
+
+msgid "Rotating Image Slider + Video Slider"
+msgstr ""
+
+msgid ""
+"Optimizer PRO comes with 3 beautiful sliders. Plus, you will be able to add "
+"rotating images and video background to your existing slider."
+msgstr ""
+
+msgid "Contact Page"
+msgstr ""
+
+msgid ""
+"Optimizer PRO comes with Easy to setup Contact page that let your users get "
+"in touch with you right from your site."
+msgstr ""
+
+msgid "Optimizer PRO is SEO optimized and comes with Advanced SEO Options."
+msgstr ""
+
+msgid "Advanced Header Customization"
+msgstr ""
+
+msgid ""
+" Optimizer PRO comes with powerful header options like, Topbar Sticky "
+"header, Header background image, Menu styles and more."
+msgstr ""
+
+msgid "40 Shortcodes and 18 Widgets"
+msgstr ""
+
+msgid ""
+"Make your site content standout with 40 shortcodes and 18 widgets that come "
+"with theme."
+msgstr ""
+
+msgid ""
+"You will be able to display social share icons to your posts and pages "
+"without installing any plugins. The share buttons come with multiple unique "
+"styles too."
+msgstr ""
+
+msgid "Live Demos"
+msgstr ""
+
+msgid ""
+"These Demos are made with Optimizer PRO within an hour without any custom "
+"code."
+msgstr ""
+
+msgid "User Showcase"
+msgstr ""
+
+msgid ""
+"See what users made with Optimizer PRO.Collaboratively administrate "
+"empowered markets via plug-and-play networks. Dynamically procrastinate B2C "
+"users after installed base benefits."
+msgstr ""
+
+msgid "Showcase on Pinterest"
+msgstr ""
+
+msgid ""
+"Unlock The True Power of Optimizer. Customize Your Site Anyway You Want!"
+msgstr ""
+
+msgid "Why PRO"
+msgstr ""
+
+msgid "Converted to Latest Version"
+msgstr ""
+
+msgid "Full Width"
+msgstr ""
+
+msgid "Boxed"
+msgstr ""
+
+msgid "Box Width *"
+msgstr ""
+
+msgid "Box Background Color"
+msgstr ""
+
+msgid "Fixed Background Image"
+msgstr ""
+
+msgid "Site content Text Color"
+msgstr ""
+
+msgid "Other Elements Background"
+msgstr ""
+
+msgid ""
+"Affects Frontpage Posts hover color, Search button background Color, Widget "
+"Title border color, Related post hover color, Sub menu hover background "
+"color, Comments Submit button color."
+msgstr ""
+
+msgid "Other Elements Text Color"
+msgstr ""
+
+msgid "Affects Front page post hover text color, Search button text color."
+msgstr ""
+
+msgid "Family"
+msgstr ""
+
+msgid "Subsets"
+msgstr ""
+
+msgid "Font Size"
+msgstr ""
+
+msgid "Turn Menu Text &amp; All Headings to Uppercase"
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+msgid "Scroll To Top Button"
+msgstr ""
+
+msgid ""
+"Turn On/Off The button that appears on bottom right when you scroll down to "
+"pages."
+msgstr ""
+
+msgid "Center Footer Widgets and Copyright Text"
+msgstr ""
+
+msgid "Footer Widget Area Background Color"
+msgstr ""
+
+msgid "Footer Widget Area Text Color"
+msgstr ""
+
+msgid "Footer Widget Title Color"
+msgstr ""
+
+msgid "Footer Background Image can be set up in PRO version Only."
+msgstr ""
+
+msgid "Optimizer WordPress Theme"
+msgstr ""
+
+msgid "Footer Copyright Text"
+msgstr ""
+
+msgid "Copyright Area Background"
+msgstr ""
+
+msgid "Copyright Text Color"
+msgstr ""
+
+msgid "Copyright Area Background Image can be set up in PRO version Only."
+msgstr ""
+
+msgid "Slider Type *"
+msgstr ""
+
+msgid ""
+"Choose the Slider type and configure your images from Slider Settings below."
+msgstr ""
+
+msgid "Static Slide"
+msgstr ""
+
+msgid "Disable Slider"
+msgstr ""
+
+msgid "Background Image *"
+msgstr ""
+
+msgid "You Can only Add Slideshow Images in the PRO version."
+msgstr ""
+
+msgid "You Can only Add Video Background in the PRO version."
+msgstr ""
+
+msgid "ADVANCED"
+msgstr ""
+
+msgid "STRONG"
+msgstr ""
+
+msgid "RELIABLE"
+msgstr ""
+
+msgid ""
+"The Optimizer, an easy to customizable multi-purpose theme with lots of "
+"powerful features."
+msgstr ""
+
+msgid "Static Slide Content *"
+msgstr ""
+
+msgid "Slide Text Color"
+msgstr ""
+
+msgid "DEMO"
+msgstr ""
+
+msgid "Button Text"
+msgstr ""
+
+msgid "Button Link"
+msgstr ""
+
+msgid "Button Style"
+msgstr ""
+
+msgid "Flat"
+msgstr ""
+
+msgid "Flat (Big)"
+msgstr ""
+
+msgid "Hollow"
+msgstr ""
+
+msgid "Hollow (Big)"
+msgstr ""
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Rounded (Big)"
+msgstr ""
+
+msgid "Button Background"
+msgstr ""
+
+msgid "Button Text Color"
+msgstr ""
+
+msgid "DOWNLOAD"
+msgstr ""
+
+msgid "Slider Content Box Width"
+msgstr ""
+
+msgid "Content Box Vertical Position"
+msgstr ""
+
+msgid "Slider Content Alignment"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Site Title Font Size"
+msgstr ""
+
+msgid "Site Title Color"
+msgstr ""
+
+msgid "Logo Image *"
+msgstr ""
+
+msgid "Menu Text Color"
+msgstr ""
+
+msgid "Menu Hover Text Color"
+msgstr ""
+
+msgid "Menu Active Text Color"
+msgstr ""
+
+msgid "Menu Font Size"
+msgstr ""
+
+msgid "Transparent Header on Frontpage *"
+msgstr ""
+
+msgid "Transparent Header Text Color"
+msgstr ""
+
+msgid "Header Background Color"
+msgstr ""
+
+msgid "Social links Icons Style"
+msgstr ""
+
+msgid "Social Icons Position"
+msgstr ""
+
+msgid "Social Icons Size"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Facebook URL"
+msgstr ""
+
+msgid "Twitter URL"
+msgstr ""
+
+msgid "Google Plus URL"
+msgstr ""
+
+msgid "Youtube URL"
+msgstr ""
+
+msgid "Flickr URL"
+msgstr ""
+
+msgid "Linkedin URL"
+msgstr ""
+
+msgid "Pinterest URL"
+msgstr ""
+
+msgid "Tumblr URL"
+msgstr ""
+
+msgid "Instagram URL"
+msgstr ""
+
+msgid "Dribbble URL"
+msgstr ""
+
+msgid "Behance URL"
+msgstr ""
+
+msgid "RSS FEED URL"
+msgstr ""
+
+msgid "Hide Slider for Mobile"
+msgstr ""
+
+msgid "Hide Right Sidebar for Mobile"
+msgstr ""
+
+msgid "Hide Page Headers for Mobile"
+msgstr ""
+
+msgid "Lightbox Feature *"
+msgstr ""
+
+msgid "Enhanced Gallery *"
+msgstr ""
+
+msgid ""
+"Replaces your boring WordPress galleries with Optimizer slideshow gallery "
+"system."
+msgstr ""
+
+msgid "SEO Settings are available in the PRO version."
+msgstr ""
+
+msgid "Show Post Info"
+msgstr ""
+
+msgid "Next and Previous Posts"
+msgstr ""
+
+msgid "Display Next and Previous Posts Under Single Post"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Show/Hide Comments in Posts and Pages"
+msgstr ""
+
+msgid "Page Header Background"
+msgstr ""
+
+msgid "Page Header Text color"
+msgstr ""
+
+msgid "Page Header Background Image (per page) can be changed in PRO version."
+msgstr ""
+
+msgid "Display Blog Posts from selected Categories *"
+msgstr ""
+
+msgid "Blog Page Posts Count *"
+msgstr ""
+
+msgid "Blog Page Layout *"
+msgstr ""
+
+msgid "Blog Page Thumbnails *"
+msgstr ""
+
+msgid "Post Title Color"
+msgstr ""
+
+msgid "Link Color (Regular)"
+msgstr ""
+
+msgid "Links Color (Hover)"
+msgstr ""
+
+msgid "Sidebar Widgets Background"
+msgstr ""
+
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+msgid "Sidebar Widget Text Color"
+msgstr ""
+
+msgid "Sidebar Widget Title Font Size"
+msgstr ""
+
+msgid "Category & Archive Page layout *"
+msgstr ""
+
+msgid "Social Share Settings are available in the PRO version."
+msgstr ""
+
+msgid "Contact Page can be set up in PRO version Only."
+msgstr ""
+
+msgid "Edit content"
+msgstr ""
+
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+msgid "Previous Post"
+msgstr ""
+
+msgid "Next Post"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Read More"
+msgstr ""
+
+msgid "&diams; About Widget"
+msgstr ""
+
+msgid "Optimizer About Section widget"
+msgstr ""
+
+msgid "THE OPTIMIZER"
+msgstr ""
+
+msgid "a little about.."
+msgstr ""
+
+msgid ""
+"Collaboratively administrate empowered markets via plug-and-play networks. "
+"Dynamically procrastinate B2C users after installed base benefits. "
+"Dramatically visualize customer directed convergence without revolutionary "
+"ROI."
+msgstr ""
+
+msgid "Pre Heading:"
+msgstr ""
+
+msgid "Heading:"
+msgstr ""
+
+msgid "Content:"
+msgstr ""
+
+msgid "Title Divider:"
+msgstr ""
+
+msgid "Rhombus"
+msgstr ""
+
+msgid "Star"
+msgstr ""
+
+msgid "Cross"
+msgstr ""
+
+msgid "Bolt"
+msgstr ""
+
+msgid "Asterisk"
+msgstr ""
+
+msgid "Chevron"
+msgstr ""
+
+msgid "Heart"
+msgstr ""
+
+msgid "Plus"
+msgstr ""
+
+msgid "Bookmark"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Blocks"
+msgstr ""
+
+msgid "Sides"
+msgstr ""
+
+msgid "Cog"
+msgstr ""
+
+msgid "Blinds"
+msgstr ""
+
+msgid "Hide Divider"
+msgstr ""
+
+msgid "Heading Color"
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Background Image"
+msgstr ""
+
+msgid "Available in PRO version"
+msgstr ""
+
+msgid "&diams; Blocks Widget"
+msgstr ""
+
+msgid "Optimizer Blocks Section widget"
+msgstr ""
+
+msgid "Lorem Ipsum"
+msgstr ""
+
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur dol adipiscing elit. Nam nec rhoncus "
+"risus. In ultrices lacinia ipsum, posuere faucibus velit bibe."
+msgstr ""
+
+msgid "Block 1"
+msgstr ""
+
+msgid "Block 1 Title"
+msgstr ""
+
+msgid "Block 1 Image"
+msgstr ""
+
+msgid "Select Image"
+msgstr ""
+
+msgid "Block 1 Content:"
+msgstr ""
+
+msgid "Block 2"
+msgstr ""
+
+msgid "Block 2 Title"
+msgstr ""
+
+msgid "Block 2 Image"
+msgstr ""
+
+msgid "Block 2 Content:"
+msgstr ""
+
+msgid "Block 3"
+msgstr ""
+
+msgid "Block 3 Title"
+msgstr ""
+
+msgid "Block 3 Image"
+msgstr ""
+
+msgid "Block 3 Content:"
+msgstr ""
+
+msgid "Block 4"
+msgstr ""
+
+msgid "Block 4 Title"
+msgstr ""
+
+msgid "Block 4 Image"
+msgstr ""
+
+msgid "Block 4 Content:"
+msgstr ""
+
+msgid "Block 5"
+msgstr ""
+
+msgid "Block 5 Title"
+msgstr ""
+
+msgid "Block 5 Image"
+msgstr ""
+
+msgid "Block 5 Content:"
+msgstr ""
+
+msgid "Block 6"
+msgstr ""
+
+msgid "Block 6 Title"
+msgstr ""
+
+msgid "Block 6 Image"
+msgstr ""
+
+msgid "Block 6 Content:"
+msgstr ""
+
+msgid "Blocks Title Color"
+msgstr ""
+
+msgid "Blocks Text Color"
+msgstr ""
+
+msgid "Blocks Background Color"
+msgstr ""
+
+msgid "&diams; Posts Widget"
+msgstr ""
+
+msgid ""
+"This Widget lets you display WordPress Posts, Pages and Woocommerce Products."
+msgstr ""
+
+msgid "Our Work"
+msgstr ""
+
+msgid "Check Out Our Portfolio"
+msgstr ""
+
+msgid "Check Out Our Work"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Subtitle:"
+msgstr ""
+
+msgid "Posts Layout:"
+msgstr ""
+
+msgid "Layout 1"
+msgstr ""
+
+msgid "Layout 4"
+msgstr ""
+
+msgid "3 more layouts available in PRO"
+msgstr ""
+
+msgid "Posts Type:"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Products (Woocommerce)"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Number of Posts:"
+msgstr ""
+
+msgid "Posts Navigation:"
+msgstr ""
+
+msgid "Numbered"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Post Background Color"
+msgstr ""
+
+msgid "Posts Section Title Color"
+msgstr ""
+
+msgid "Posts Section Background Color"
+msgstr ""
+
+msgid "&diams; Advanced Text Widget"
+msgstr ""
+
+msgid "Optimizer Advanced Text Section widget"
+msgstr ""
+
+msgid "Top &amp; Bottom Padding"
+msgstr ""
+
+msgid "Side Padding"
+msgstr ""
+
+msgid "This Title wont be shown"
+msgstr ""
+
+msgid "Checkout Our Work"
+msgstr ""
+
+msgid "These Options Are Only Available in Optimizer PRO"
+msgstr ""
+
+msgid "Welcome Text"
+msgstr ""
+
+msgid "Right Sidebar"
+msgstr ""
+
+msgid ""
+"When you assign widgets to this area, it will be displayed on the right side "
+"of all pages and posts"
+msgstr ""
+
+msgid "This Widget Area is displayed in the footer section of your site."
+msgstr ""
+
+msgid ""
+"With Optmizer Free you can only add 4 widgets to this Area. Upgrade to PRO "
+"to add unlimited Widgets."
+msgstr ""
+
+msgid "+ Read More"
+msgstr ""
+
+msgid "Search &hellip;"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+#, php-format
+msgid "%s"
+msgstr ""
+
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#, php-format
+msgid "<cite class=\"citeping\">%s</cite> <span class=\"says\">:</span>"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+#, php-format
+msgid ""
+"<strong>WARNING:</strong> As per <a href=\"%1$s\" target=\"_blank\">Official "
+"WordPress Theme Team</a>, this Option panel will be obsolete soon. Your "
+"Theme Options has been moved to Appearance > Customizer. "
+msgstr ""
+
+msgid ""
+"To Learn how to convert to latest version of the theme, <a target=\"_blank\" "
+"href=\"https://www.layerthemes.com/improved-optimizer-wordpress-theme/"
+"\">Read This</a>"
+msgstr ""
+
+msgid "Standard Fonts"
+msgstr ""
+
+msgid "Google Fonts"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Cyrillic"
+msgstr ""
+
+msgid "Cyrillic Extended"
+msgstr ""
+
+msgid "Devanagari"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Greek Extended"
+msgstr ""
+
+msgid "Khmer"
+msgstr ""
+
+msgid "Latin"
+msgstr ""
+
+msgid "Latin Extended"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""

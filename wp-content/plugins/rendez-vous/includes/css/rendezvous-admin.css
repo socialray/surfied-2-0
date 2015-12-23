@@ -1,0 +1,64 @@
+p.rendez-vous-guide {
+	width:25em;
+	padding:0 1em;
+}
+.rendez-vous-list-terms li.rdv-term span.rdv-term-name {
+	font-weight: bold;
+}
+
+.rendez-vous-list-terms li.rdv-term {
+	width:25em;
+	padding:1em;
+	margin-bottom:0.3em;
+	overflow: hidden;
+	clear: both;
+	line-height: 20px;
+}
+
+.rendez-vous-list-terms li.rdv-select-term {
+	border: outset 2px #1e8cbe;
+}
+
+.rendez-vous-list-terms li.rdv-term a:before {
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 20px/1 'dashicons';
+	vertical-align: middle;
+}
+
+.rendez-vous-list-terms li.rdv-term a:focus {
+	outline: none;
+	color: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.rendez-vous-list-terms li.rdv-term span.rdv-term-actions {
+	display:inline-block;
+	float:right;
+	height:100%;
+}
+
+.rendez-vous-list-terms li.rdv-term a.rdv-edit-item {
+	color:#c1c1c1;
+}
+
+.rendez-vous-list-terms li.rdv-select-term a.rdv-edit-item {
+	color:#0074a2;
+}
+
+.rendez-vous-list-terms li.rdv-term a.rdv-edit-item:before {
+	content: "\f464";
+}
+
+.rendez-vous-list-terms li.rdv-term a.rdv-delete-item {
+	color:#a00;
+}
+
+.rendez-vous-list-terms li.rdv-term a.rdv-delete-item:hover{
+	color:#f00;
+}
+
+.rendez-vous-list-terms li.rdv-term a.rdv-delete-item:before {
+	content: "\f182";
+}

@@ -1,0 +1,1409 @@
+# Copyright (C) 2012 BP check-ins
+# This file is distributed under the same license as the BP check-ins package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP check-ins 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-checkins\n"
+"POT-Creation-Date: 2013-07-17 20:40:15+00:00\n"
+"PO-Revision-Date: 2013-07-17 22:41+0100\n"
+"Last-Translator: imath <mathchristo@yahoo.fr>\n"
+"Language-Team: imath\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n>2;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: bp-checkins.php:78
+msgid ""
+"If you want to use BP Checkins, you need to activate the Activity Stream "
+"BuddyPress component, to do so, please activate it in <a href=\"%s"
+"\">BuddyPress settings</a>"
+msgstr ""
+"Si vous souhaitez utiliser BP Checkins, vous avez besoin d&#39;activer le "
+"composant BuddyPress Activités. Pour cela, merci de l'activer depuis les <a "
+"href=\"%s\">réglages BuddyPress</a>."
+
+#: includes/bp-checkins-actions.php:41
+msgid ""
+"OOps, looks like this place does not exist ! You can try to search for it or "
+"browse categories"
+msgstr ""
+"OOps, il semble que cette place soit inexistante ! Vous pouvez essayer de la "
+"rechercher ou de lister les places par catégories"
+
+#: includes/bp-checkins-actions.php:55
+msgid ""
+"OOps, looks like this place is private ! You can try to search for another "
+"one or browse categories"
+msgstr ""
+"OOps, il semble que cette place soit privée ! Vous pouvez essayer de "
+"rechercher une autre place ou parcourir les places par catégorie"
+
+#: includes/bp-checkins-actions.php:145 includes/bp-checkins-actions.php:384
+#: includes/bp-checkins-admin.php:104 includes/bp-checkins-admin.php:130
+#: includes/bp-checkins-group-class.php:131 templates/bp-checkins-mine.php:57
+#: templates/bp-checkins.php:68
+msgid "Activity checkins"
+msgstr "Checkins d&#39;activité"
+
+#: includes/bp-checkins-actions.php:146 includes/bp-checkins-actions.php:385
+#: includes/bp-checkins-group-class.php:132 templates/bp-checkins-mine.php:58
+#: templates/bp-checkins.php:69
+msgid "Place checkins"
+msgstr "Checkins de place"
+
+#: includes/bp-checkins-actions.php:156 includes/bp-checkins-actions.php:390
+msgid "All places"
+msgstr "Toutes les places"
+
+#: includes/bp-checkins-actions.php:157 includes/bp-checkins-actions.php:391
+msgid "Place comments"
+msgstr "Commentaires de place"
+
+#: includes/bp-checkins-actions.php:296
+msgid "No comment to delete"
+msgstr "Pas de commentaire à effacer"
+
+#: includes/bp-checkins-actions.php:307
+msgid "No comment id was given, please try again"
+msgstr "Aucun commentaire ne correspond, merci de réessayer"
+
+#: includes/bp-checkins-actions.php:324
+msgid "No place to delete"
+msgstr "Pas de place à effacer"
+
+#: includes/bp-checkins-actions.php:337
+msgid "No place id was given, please try again"
+msgstr "Aucune place ne correspond, merci de réessayer"
+
+#: includes/bp-checkins-actions.php:388
+#: includes/bp-checkins-foursquare-api.php:380
+msgid "Foursquare checkins"
+msgstr "Checkins Foursquare"
+
+#: includes/bp-checkins-admin.php:24
+msgid "BP Checkins Settings"
+msgstr "Réglages BP Checkins"
+
+#: includes/bp-checkins-admin.php:29 includes/bp-checkins-admin.php:32
+msgid "Foursquare logs"
+msgstr "Logs Foursquare"
+
+#: includes/bp-checkins-admin.php:108 includes/bp-checkins-admin.php:133
+msgid "Checkins & Places Component"
+msgstr "Composant Checkins et Places"
+
+#: includes/bp-checkins-admin.php:112 includes/bp-checkins-admin.php:136
+msgid "Foursquare API Settings"
+msgstr "Réglages de l&#39;API Foursquare"
+
+#: includes/bp-checkins-admin.php:168
+msgid "Settings Saved"
+msgstr "Réglages enregistrés"
+
+#: includes/bp-checkins-admin.php:180
+msgid "Disable Activity checkins in profile and group post forms"
+msgstr ""
+"Rendre indisponible les checkins d&#39;activité dans les formulaires "
+"d'annonce des groupes et des profils"
+
+#: includes/bp-checkins-admin.php:182 includes/bp-checkins-admin.php:189
+#: includes/bp-checkins-admin.php:215 includes/bp-checkins-admin.php:229
+#: includes/bp-checkins-admin.php:249 includes/bp-checkins-admin.php:256
+#: includes/bp-checkins-admin.php:276 includes/bp-checkins-admin.php:313
+#: includes/bp-checkins-admin.php:400 includes/bp-checkins-admin.php:416
+#: includes/bp-checkins-places-widget.php:159
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/bp-checkins-admin.php:183 includes/bp-checkins-admin.php:190
+#: includes/bp-checkins-admin.php:216 includes/bp-checkins-admin.php:230
+#: includes/bp-checkins-admin.php:250 includes/bp-checkins-admin.php:257
+#: includes/bp-checkins-admin.php:277 includes/bp-checkins-admin.php:314
+#: includes/bp-checkins-admin.php:401 includes/bp-checkins-admin.php:417
+#: includes/bp-checkins-places-widget.php:160
+msgid "No"
+msgstr "Non"
+
+#: includes/bp-checkins-admin.php:187
+msgid "Hide position of user&#39;s friends in friends list"
+msgstr "Masquer la position des amis dans la liste des amis"
+
+#: includes/bp-checkins-admin.php:203
+msgid ""
+"If you want to activate this component, simply click on the &#39;Save "
+"Settings&#39; button, then you will be able to edit its behavior"
+msgstr ""
+"Si vous souhaitez activer ce composant, cliquez simplement sur le bouton "
+"&#39;Enregistrer Réglages&#39;, ensuite vous pourrez personnaliser son "
+"comportement"
+
+#: includes/bp-checkins-admin.php:208
+msgid "Checkins Component"
+msgstr "Composant Checkins"
+
+#: includes/bp-checkins-admin.php:213
+msgid ""
+"Enable image uploads in Checkins (it needs at least <b>64M</b> of memory "
+"limit)"
+msgstr ""
+"Autoriser les transferts d&#39;image dans les Checkins (cela nécessite au "
+"moins <b>64M</b> de memory limit dans vos réglages php)"
+
+#: includes/bp-checkins-admin.php:222
+msgid "<a href=\"%s\">Places Component</a>"
+msgstr "<a href=\"%s\">Composant Places</a>"
+
+#: includes/bp-checkins-admin.php:227
+msgid "Enable image uploads in Places"
+msgstr "Autoriser les transfert d'image lors de la création d&#39;une place"
+
+#: includes/bp-checkins-admin.php:234
+msgid "Max width for the image added via an url in Places"
+msgstr ""
+"Largeur maximale pour une image insérée via une url lors de la création "
+"d&#39;une place"
+
+#: includes/bp-checkins-admin.php:247
+msgid ""
+"Enable image uploads in Places comments (it needs at least <b>64M</b> of "
+"memory limit)"
+msgstr ""
+"Autoriser les transferts d&#39;image dans les commentaires des places (cela "
+"nécessite au moins <b>64M</b> de memory limit dans vos réglages php)"
+
+#: includes/bp-checkins-admin.php:254
+msgid ""
+"Enable info box to show friends that checked in a place to logged in user"
+msgstr ""
+"Permettre l&#39;affichage des amis du membre connecté ayant effectué un "
+"checkin sur la place affichée"
+
+#: includes/bp-checkins-admin.php:261
+msgid "Amount of milliseconds for the timer in Live places"
+msgstr "Nombre de millisecondes pour le compte à rebours dans les Places live"
+
+#: includes/bp-checkins-admin.php:274
+msgid "Disable timer in the comments of live places"
+msgstr "Rendre indisponible le compte à rebours des places live"
+
+#: includes/bp-checkins-admin.php:284
+msgid "Shared settings"
+msgstr "Réglages partagés"
+
+#: includes/bp-checkins-admin.php:289
+msgid "Max upload file size for images (%s)"
+msgstr "Taille maximum autorisée des images en (%s) pour les transferts"
+
+#: includes/bp-checkins-admin.php:304
+msgid ""
+"Image uploads in checkin component or in the comments of places uses the "
+"HTML5 File and File Reader API, it may not work for all users depending on "
+"their browser..."
+msgstr ""
+"Les transferts d&#39;images dans le composant Checkin ou dans les "
+"commentaires des places utilisent les API HTML5 File et File Reader, il est "
+"possible que ces API ne soient pas implémentées dans tous les navigateurs..."
+
+#: includes/bp-checkins-admin.php:306
+msgid "Disable Checkins and Places components"
+msgstr "Rendre indisponible les composants Checkins et Places"
+
+#: includes/bp-checkins-admin.php:311
+msgid ""
+"Check the &#39;yes&#39; option and save the settings to disable the "
+"components"
+msgstr ""
+"Cocher l&#39;option &#39;Oui&#39; et sauvergarder les réglages pour rendre "
+"indisponible les composants"
+
+#: includes/bp-checkins-admin.php:328
+msgid ""
+"If you want to use this feature, you need to activate the Account Settings "
+"BuddyPress component, to do so, please activate it in <a href=\"%s"
+"\">BuddyPress settings</a>"
+msgstr ""
+"Si vous souhaitez utiliser cette fonctionnalité, vous avez besoin d&#39;"
+"activer le composant BuddyPress Réglages des Comptes Utilisateurs. Pour "
+"cela, merci de vous rendre sur la page des <a href=\"%s\">réglages "
+"BuddyPress</a>."
+
+#: includes/bp-checkins-admin.php:335
+msgid ""
+"If you want to use this feature, you need to activate the Checkins and "
+"Places component, to do so use <a href=\"%s\">the appropriate tab</a>"
+msgstr ""
+"Si vous souhaitez utiliser cette fonctionnalité, vous avez besoin d&#39;"
+"activer le composant Checkins et Places. Pour cela, merci d&#39;utiliser <a "
+"href=\"%s\">l&#39;onglet approprié</a>."
+
+#: includes/bp-checkins-admin.php:340
+msgid "Foursquare credentials"
+msgstr "Identifiants de l&#39; application pour Foursquare"
+
+#: includes/bp-checkins-admin.php:345
+msgid "Client ID"
+msgstr "Identifiant Client"
+
+#: includes/bp-checkins-admin.php:350 includes/bp-checkins-admin.php:359
+msgid "given by Foursquare once you registered an API key."
+msgstr "fourni par Foursquare une fois votre clé enregistrée"
+
+#: includes/bp-checkins-admin.php:354
+msgid "Client Secret"
+msgstr "Code Secret"
+
+#: includes/bp-checkins-admin.php:363
+msgid "Callback Url"
+msgstr "Url de retour"
+
+#: includes/bp-checkins-admin.php:368
+msgid "The callback url is needed when registering a Foursquare API key."
+msgstr ""
+"L&#39;url de retour est demandée par Foursquare lors de la demande d&#39;"
+"enregistrement de votre clé."
+
+#: includes/bp-checkins-admin.php:374
+msgid ""
+"If you have not registered a Foursquare API Key, yet, you can get one by "
+"clicking <a href=\"%s\">here</a>. You will be able to choose your "
+"application name, your application website and the callback url displayed in "
+"green on this screen."
+msgstr ""
+"Si vous n&#39;avez pas enregistré une clé d&#39;API auprès de Foursquare, "
+"vous pouvez le faire en cliquant ici. Vous devrez alors choisir un nom pour "
+"votre application, indiquer l&#39;adresse de votre site et surtout l&#39;url "
+"de retour qui est affichée en vert sur cet affichage."
+
+#: includes/bp-checkins-admin.php:376
+msgid "Foursquare import preferences"
+msgstr "Préférences d&#39;import Foursquare"
+
+#: includes/bp-checkins-admin.php:381
+msgid "Use WordPress Cron"
+msgstr "Utiliser le Cron de WordPress"
+
+#: includes/bp-checkins-admin.php:384
+msgid "Do not use WP Cron"
+msgstr "Ne pas utiliser"
+
+#: includes/bp-checkins-admin.php:391
+msgid ""
+"WordPress Cron is run when a frontend or admin page is loaded on your web "
+"site"
+msgstr ""
+"Le Cron de WordPress est lancé lorsqu&#39;une page de votre site est chargée "
+"selon la périodicité choisie."
+
+#: includes/bp-checkins-admin.php:393
+msgid "Foursquare import logs page"
+msgstr "journal des imports Foursquare"
+
+#: includes/bp-checkins-admin.php:398
+msgid "Enable your members to import manually their checkins"
+msgstr ""
+"Autoriser vos membres à importer manuellement leurs checkins Foursquare"
+
+#: includes/bp-checkins-admin.php:404
+msgid ""
+"If enabled, members will be able to import their checkins from the checkins "
+"tab of their settings area"
+msgstr ""
+"Si vous autorisez, vos membres pourrons alors importer leurs checkins depuis "
+"l&#39;onglet Checkins de leurs réglages personnels"
+
+#: includes/bp-checkins-admin.php:409
+msgid "Disable Foursquare API"
+msgstr "Rendre indisponible l&#39;API Foursquare"
+
+#: includes/bp-checkins-admin.php:414
+msgid ""
+"Check the &#39;yes&#39; option and save the settings to disable foursquare "
+"API"
+msgstr ""
+"Cochez le choix &#39;Oui&#39; et sauvegardez les réglages pour rendre "
+"indisponible l&#39;API Foursquare"
+
+#: includes/bp-checkins-admin.php:428
+msgid "Save Settings"
+msgstr "Enregistrer Réglages"
+
+#: includes/bp-checkins-admin.php:463
+msgid "BP Checkins : foursquare import logs"
+msgstr "BP Checkins : journal des imports Foursquare"
+
+#: includes/bp-checkins-admin.php:464
+msgid "Next run for cron job : %s"
+msgstr "Prochain passage du Cron : %s"
+
+#: includes/bp-checkins-admin.php:469
+msgid "User id"
+msgstr "Identifiant utilisateur"
+
+#: includes/bp-checkins-admin.php:470
+msgid "Log type"
+msgstr "Type de log"
+
+#: includes/bp-checkins-admin.php:471
+msgid "Log info"
+msgstr "Info du log"
+
+#: includes/bp-checkins-admin.php:489
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: includes/bp-checkins-admin.php:490
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: includes/bp-checkins-admin.php:497
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Affichage de %s&#8211;%s sur %s"
+
+#: includes/bp-checkins-admin.php:519
+msgid "Thumbnail of the places category"
+msgstr "Vignette de la catégorie de place"
+
+#: includes/bp-checkins-admin.php:523 includes/bp-checkins-admin.php:529
+msgid "Upload Places category image"
+msgstr "Transférer une vignette pour cette catégorie de place"
+
+#: includes/bp-checkins-admin.php:525
+msgid "Choose an image to illustrate your category."
+msgstr "Choisissez une image pour illustrer votre catégorie de place."
+
+#: includes/bp-checkins-admin.php:532
+msgid "Choose an image to replace the actual thumbnail for your category."
+msgstr ""
+"Choisissez une image pour remplacer la vignette actuelle de cette catégorie "
+"de place"
+
+#: includes/bp-checkins-admin.php:651 includes/bp-checkins-admin.php:657
+msgid "Welcome in BP Checkins 1.0"
+msgstr "Bienvenue dans BP Checkins 1.0"
+
+#: includes/bp-checkins-admin.php:652
+msgid ""
+"Please take a few seconds to configure the options of this plugin in "
+"BuddyPress Settings menu / BP Checkins Settings submenu."
+msgstr ""
+"Merci de prendre quelques secondes pour paramétrer les options de ce plugin "
+"dans les réglages BuddyPress sous menu Réglages BP Checkins"
+
+#: includes/bp-checkins-admin.php:658
+msgid ""
+"Please take a few seconds to configure the options of this plugin in "
+"WordPress Settings menu / BP Checkins Settings submenu."
+msgstr ""
+"Merci de prendre quelques secondes pour paramétrer les options de ce plugin "
+"dans les réglages WordPress sous menu Réglages BP Checkins"
+
+#: includes/bp-checkins-ajax.php:150
+msgid "Please enter some content to post."
+msgstr "Merci d&#39;ajouter du contenu à votre article"
+
+#: includes/bp-checkins-ajax.php:169
+msgid "There was a problem posting your update, please try again."
+msgstr "Nous avons rencontré un problème, merci de renouveler l&#39;opération."
+
+#: includes/bp-checkins-ajax.php:204
+msgid "Please put the name of the place."
+msgstr "Merci d&#39;indiquer le nom de la place"
+
+#: includes/bp-checkins-ajax.php:209
+msgid "Please enter some content to place."
+msgstr "Merci de renseigner une description de votre place"
+
+#: includes/bp-checkins-ajax.php:214
+msgid "Please enter an address for the place."
+msgstr "Merci de spécifier une adresse pour votre place"
+
+#: includes/bp-checkins-ajax.php:219
+msgid "Please select a category for the place."
+msgstr "Merci de sélectionner une catégorie pour votre place"
+
+#: includes/bp-checkins-ajax.php:224
+msgid "Please choose a date for your live place."
+msgstr "Merci de choisir la date pour votre place live"
+
+#: includes/bp-checkins-ajax.php:262 includes/bp-checkins-ajax.php:284
+msgid "There was a problem posting your place, please try again."
+msgstr ""
+"Il y a eu un problème lors de la soumission de votre place, merci de "
+"renouveler l&#39;opération"
+
+#: includes/bp-checkins-ajax.php:341 includes/bp-checkins-ajax.php:351
+msgid "Upload Failed! Error was: %s"
+msgstr "Le transfert a échoué! L&#39;erreur rencontrée est : %s"
+
+#: includes/bp-checkins-ajax.php:365
+msgid "Upload Failed! Unable to write the image on server"
+msgstr ""
+"Le transfert a échoué! Impossible d&#39;écrire l&#39;image sur le serveur"
+
+#: includes/bp-checkins-ajax.php:372
+msgid "Upload Failed! No image sent"
+msgstr "Le transfert a échoué! Aucune image n&#39;a été envoyée"
+
+#: includes/bp-checkins-ajax.php:398
+msgid "Oops something went wrong, please try again."
+msgstr "Oops une erreur est survenue, merci de renouveler l&#39;opération"
+
+#: includes/bp-checkins-ajax.php:418
+msgid "There was a problem posting your checkin, please try again."
+msgstr ""
+"Nous avons rencontré un problème lors de la soumission de votre checkin, "
+"merci de renouveler l&#39;opération"
+
+#: includes/bp-checkins-ajax.php:479
+msgid "<span>1</span> response(s)"
+msgstr "<span>1</span> réponse(s)"
+
+#: includes/bp-checkins-component.php:19
+#: includes/bp-checkins-component.php:107
+#: includes/bp-checkins-component.php:120
+#: includes/bp-checkins-component.php:172
+#: includes/bp-checkins-component.php:201
+#: includes/bp-checkins-group-class.php:15
+#: includes/bp-checkins-group-class.php:117 templates/bp-checkins.php:52
+msgid "Checkins"
+msgstr "Checkins"
+
+#: includes/bp-checkins-component.php:89
+msgid "Search Places..."
+msgstr "Rechercher une place…"
+
+#: includes/bp-checkins-component.php:131
+#: includes/bp-checkins-component.php:232
+#: includes/bp-checkins-group-class.php:119
+msgid "Places"
+msgstr "Places"
+
+#: includes/bp-checkins-component.php:144
+msgid "Checkins settings"
+msgstr "Paramètres Checkins"
+
+#: includes/bp-checkins-component.php:180
+msgid "My Checkins"
+msgstr "Mes checkins"
+
+#: includes/bp-checkins-component.php:188
+msgid "My Places"
+msgstr "Mes places"
+
+#: includes/bp-checkins-component.php:233
+#: includes/bp-checkins-component.php:236
+#: includes/bp-checkins-component.php:248
+msgid "Place"
+msgstr "Place"
+
+#: includes/bp-checkins-component.php:234
+#: includes/bp-checkins-places-widget.php:27
+#: includes/bp-checkins-places-widget.php:132 templates/bp-checkins.php:53
+msgid "Community Places"
+msgstr "Places de la communauté"
+
+#: includes/bp-checkins-component.php:235
+msgid "All Places"
+msgstr "Toutes les places"
+
+#: includes/bp-checkins-component.php:237
+#: includes/bp-checkins-component.php:238
+msgid "Add New Place"
+msgstr "Ajouter une place"
+
+#: includes/bp-checkins-component.php:239
+msgid "Edit Place"
+msgstr "Modifier la place"
+
+#: includes/bp-checkins-component.php:240
+msgid "New Place"
+msgstr "Nouvelle place"
+
+#: includes/bp-checkins-component.php:241
+msgid "View Place"
+msgstr "Afficher la place"
+
+#: includes/bp-checkins-component.php:242 includes/bp-checkins-screens.php:395
+#: templates/bp-checkins-place-home.php:24
+msgid "Search Places"
+msgstr "Recherche des places"
+
+#: includes/bp-checkins-component.php:243
+msgid "No Places Found"
+msgstr "Aucune place trouvée"
+
+#: includes/bp-checkins-component.php:244
+msgid "No Places Found in Trash"
+msgstr "Aucune place trouvée dans la corbeille"
+
+#: includes/bp-checkins-component.php:275
+msgid "Places Categories"
+msgstr "Catégories de Place"
+
+#: includes/bp-checkins-component.php:276
+msgid "Places Category"
+msgstr "Catégorie de Place"
+
+#: includes/bp-checkins-component.php:277
+msgid "Edit Places Category"
+msgstr "Modifier une catégorie de place"
+
+#: includes/bp-checkins-component.php:278
+msgid "Update Places Category"
+msgstr "Mettre à jour une catégorie de place"
+
+#: includes/bp-checkins-component.php:279
+msgid "Add New Places Category"
+msgstr "Ajouter une nouvelle catégorie de place"
+
+#: includes/bp-checkins-component.php:280
+msgid "New Places Category Name"
+msgstr "Nom de votre catégorie de place"
+
+#: includes/bp-checkins-component.php:281
+msgid "All Places Categories"
+msgstr "Toutes les catégories de place"
+
+#: includes/bp-checkins-component.php:282
+msgid "Search Places Categories"
+msgstr "Rechercher dans les catégories de place"
+
+#: includes/bp-checkins-component.php:283
+msgid "Parent Places Category"
+msgstr "Catégorie de place parente"
+
+#: includes/bp-checkins-component.php:284
+msgid "Parent Places Category:"
+msgstr "Catégorie de place parente:"
+
+#: includes/bp-checkins-component.php:295
+msgid "Default"
+msgstr "Defaut"
+
+#: includes/bp-checkins-filters.php:36 js/img/box.php:125
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: includes/bp-checkins-filters.php:121
+msgid "Browse or Search Places"
+msgstr "Parcourir ou rechercher des places"
+
+#: includes/bp-checkins-filters.php:137
+msgid ""
+"<a href=\"#\" class=\"add-checkin without checkedin\">Checked-in</a><a href="
+"\"#\" class=\"add-checkin with\">Comment &amp; check-in</a>"
+msgstr ""
+"<a href=\"#\" class=\"add-checkin without checkedin\">Checkin ajouté</a><a "
+"href=\"#\" class=\"add-checkin with\">Commenter &amp; ajouter un checkin</a>"
+
+#: includes/bp-checkins-filters.php:200
+msgid "New comment on your place \"%s\""
+msgstr "Nouveau commentaire sur votre place \"%s\""
+
+#: includes/bp-checkins-filters.php:201
+msgid "Comment: "
+msgstr "Commentaire:"
+
+#: includes/bp-checkins-filters.php:202
+msgid "Permalink: %s"
+msgstr "Permalien: %s"
+
+#: includes/bp-checkins-foursquare-api.php:32
+msgid "You must be loggedin to perform this action"
+msgstr "Vous devez être authentifié pour réaliser cette action"
+
+#: includes/bp-checkins-foursquare-api.php:35
+msgid ""
+"Please contact admin, the Foursquare credentials of this website are not set"
+msgstr ""
+"Merci de contacter l&#39;admin du site, il semble que les identifiants "
+"Foursquare de ce site ne soient pas réglés correctement"
+
+#: includes/bp-checkins-foursquare-api.php:38
+msgid "OOps something went wrong, please try again later"
+msgstr "OOps une erreur est apparue, merci de renouveler"
+
+#: includes/bp-checkins-foursquare-api.php:50
+#: includes/bp-checkins-foursquare-api.php:114
+msgid ""
+"OOps something went wrong while contacting Foursquare, please try again later"
+msgstr ""
+"OOps nous ne sommes pas parvenu à contacter Foursquare, merci de renouveler "
+"plus tard."
+
+#: includes/bp-checkins-foursquare-api.php:57
+msgid "Congratulations, your foursquare account is now linked to this website"
+msgstr "Bravo, votre compte Foursquare est désormais lié à ce site."
+
+#: includes/bp-checkins-foursquare-api.php:60
+msgid ""
+"Oops Foursquare replyed : %s You should check your foursquare network "
+"connexion settings to see if our website is authorized."
+msgstr ""
+"OOps Foursquare a répondu : %s Vous devriez vérifier les réglages de vos "
+"applications connectées sur Foursquare afin de vérifier la présence de ce "
+"site."
+
+#: includes/bp-checkins-foursquare-api.php:94
+msgid "Your foursquare credentials have not been found, please try again later"
+msgstr ""
+"Vos identifiants Foursquare n&#39;ont pas été trouvés, merci de renouveler"
+
+#: includes/bp-checkins-foursquare-api.php:105
+msgid ""
+"Error : your token seems to be revoked. Please link your foursquare account"
+msgstr ""
+"Erreur : votre autorisation semble invalide. Merci de lier de nouveau votre "
+"compte Foursquare"
+
+#: includes/bp-checkins-foursquare-api.php:108
+msgid ""
+"It seems you have not checked in at Foursquare since your latest import (%s)"
+msgstr ""
+"Il semble que vous n&#39;ayez pas fait de nouveaux checkins foursquare "
+"depuis votre dernier import (%s)"
+
+#: includes/bp-checkins-foursquare-api.php:151
+msgid "No foursquare url were given"
+msgstr "Aucune url Foursquare n&#39;a été reçue"
+
+#: includes/bp-checkins-foursquare-api.php:158
+msgid "foursquare not responding"
+msgstr "Foursquare ne répond pas"
+
+#: includes/bp-checkins-foursquare-api.php:168
+msgid "user revoked his auth, meta deleted"
+msgstr ""
+"l&#39;utilisateur a annulé son autorisation, son usermeta a donc été supprimé"
+
+#: includes/bp-checkins-foursquare-api.php:175
+msgid "no new checkins"
+msgstr "pas de nouveaux checkins"
+
+#: includes/bp-checkins-foursquare-api.php:180
+msgid "%s added a <span class=\"foursquare-checkin\">foursquare</span> checkin"
+msgstr ""
+"%s a ajouté un checkin <span class=\"foursquare-checkin\">foursquare</span>"
+
+#: includes/bp-checkins-foursquare-api.php:218
+msgid "%d checkins imported"
+msgstr "%d checkins importés"
+
+#: includes/bp-checkins-foursquare-api.php:264
+msgid "Connect to your foursquare account"
+msgstr "Associer votre compte Foursquare à ce site"
+
+#: includes/bp-checkins-functions.php:129
+msgid "%s added a checkin"
+msgstr "%s a ajouté un checkin"
+
+#: includes/bp-checkins-functions.php:140
+msgid "%s added a new place %s"
+msgstr "%s a ajouté une nouvelle place %s"
+
+#: includes/bp-checkins-functions.php:150
+msgid "%s checked-in %s"
+msgstr "%s a fait un checkin sur %s"
+
+#: includes/bp-checkins-functions.php:161
+msgid "%s added a comment on %s"
+msgstr "%s a ajouté un commentaire à propos de %s"
+
+#: includes/bp-checkins-functions.php:172
+msgid "%s checked-in and added a comment on %s"
+msgstr "%s a effectué un checkin et ajouté un commentaire à propos de %s"
+
+#: includes/bp-checkins-functions.php:242
+msgid "%1$s added a checkin in the group %2$s"
+msgstr "%1$s a ajouté un checkin dans le groupe %2$s"
+
+#: includes/bp-checkins-functions.php:252
+msgid "%1$s added a new place %2$s in the group %3$s"
+msgstr "%1$s a ajouté une place %2$s dans le groupe %3$s"
+
+#: includes/bp-checkins-functions.php:262
+msgid "%1$s checked-in %2$s in the group %3$s"
+msgstr "%1$s a ajouté un checkin %2$s dans le groupe %3$s"
+
+#: includes/bp-checkins-functions.php:272
+msgid "%1$s added a comment on %2$s in the group %3$s"
+msgstr "%1$s a commenté %2$s dans le groupe %3$s"
+
+#: includes/bp-checkins-functions.php:282
+msgid "%1$s checked-in and added a comment on %2$s in the group %3$s"
+msgstr "%1$s a ajouté un checkin et commenté %2$s dans le groupe %3$s"
+
+#: includes/bp-checkins-functions.php:394 includes/bp-checkins-shared.php:316
+msgid "Open the map for this update"
+msgstr "Afficher la carte"
+
+#. translators: 1: comment author url, 2: comment author name, 3: comment
+#. permalink, 4: comment date/timestamp
+#: includes/bp-checkins-functions.php:535
+msgid ""
+"<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> said on <a href=\"%3$s\"><span "
+"class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> a répondu le <a href=\"%3$s"
+"\"><span class=\"time-since\">%4$s</span></a>"
+
+#: includes/bp-checkins-functions.php:542
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en cours de modération"
+
+#: includes/bp-checkins-functions.php:555
+msgid "Edit comment"
+msgstr "Modifier le commentaire"
+
+#: includes/bp-checkins-functions.php:555
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/bp-checkins-functions.php:559
+msgid "Delete comment"
+msgstr "Supprimer le commentaire"
+
+#: includes/bp-checkins-functions.php:559
+#: includes/bp-checkins-template.php:633
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/bp-checkins-functions.php:591
+#: includes/bp-checkins-group-class.php:127
+#: includes/bp-checkins-group-class.php:143 templates/bp-checkins-mine.php:54
+#: templates/bp-checkins-my-places.php:52
+#: templates/bp-checkins-place-category.php:31
+#: templates/bp-checkins-place-category.php:64 templates/bp-checkins.php:64
+msgid "Show:"
+msgstr "Filtrer:"
+
+#: includes/bp-checkins-functions.php:593
+#: includes/bp-checkins-group-class.php:129
+#: includes/bp-checkins-group-class.php:145
+#: includes/bp-checkins-places-widget.php:151
+#: templates/bp-checkins-mine.php:56 templates/bp-checkins-my-places.php:54
+#: templates/bp-checkins-place-category.php:33
+#: templates/bp-checkins-place-category.php:66 templates/bp-checkins.php:66
+msgid "Everything"
+msgstr "Tout"
+
+#: includes/bp-checkins-functions.php:594
+#: includes/bp-checkins-group-class.php:146
+#: includes/bp-checkins-places-widget.php:152
+#: templates/bp-checkins-my-places.php:55
+#: templates/bp-checkins-place-category.php:34
+#: templates/bp-checkins-place-category.php:67
+msgid "Live Places"
+msgstr "Places live"
+
+#: includes/bp-checkins-functions.php:595
+#: includes/bp-checkins-group-class.php:147
+#: includes/bp-checkins-places-widget.php:153
+#: templates/bp-checkins-my-places.php:56
+#: templates/bp-checkins-place-category.php:35
+#: templates/bp-checkins-place-category.php:68
+msgid "Upcoming Places"
+msgstr "Prochaines places live"
+
+#: includes/bp-checkins-functions.php:597
+#: includes/bp-checkins-group-class.php:149
+#: templates/bp-checkins-my-places.php:58
+#: templates/bp-checkins-place-category.php:37
+#: templates/bp-checkins-place-category.php:70
+msgid "Places around"
+msgstr "Places à proximité"
+
+#: includes/bp-checkins-functions.php:599
+msgid "Search or Browse by category"
+msgstr "Rechercher ou parcourir les catégories"
+
+#: includes/bp-checkins-functions.php:854
+msgid "Place has been successfully removed"
+msgstr "La Place a été supprimée"
+
+#: includes/bp-checkins-functions.php:858
+msgid "Oops something went wrong, place could not be removed"
+msgstr "Oops une erreur est apparue, la place n&#39;a pu être supprimée"
+
+#: includes/bp-checkins-functions.php:873
+msgid "Comment has been successfully removed"
+msgstr "Le commentaire a été supprimé"
+
+#: includes/bp-checkins-functions.php:875
+msgid "Oops something went wrong, comment couldnot be removed"
+msgstr "OOps une erreur est apparue, le commentaire n&#39;a pu être supprimé"
+
+#: includes/bp-checkins-functions.php:922
+msgid "%d new comments on your place(s)"
+msgstr "%d nouveaux commentaires sur vos places"
+
+#: includes/bp-checkins-functions.php:934
+msgid "1 new comment on your place"
+msgstr "1 nouveau commentaire sur votre place"
+
+#: includes/bp-checkins-group-class.php:37
+msgid "settings for this group."
+msgstr ": réglages pour ce groupe."
+
+#: includes/bp-checkins-group-class.php:40
+msgid "Activate checkins & places for this group"
+msgstr "Activer les checkins et les places pour ce groupe"
+
+#: includes/bp-checkins-group-class.php:42
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/bp-checkins-group-class.php:70
+msgid "There was an error saving, please try again"
+msgstr "Une erreur est apparue durant l&#39;enregistrement, merci de réessayer"
+
+#: includes/bp-checkins-group-class.php:72
+msgid "Settings saved successfully"
+msgstr "Réglages enregistrés"
+
+#: includes/bp-checkins-group-class.php:79
+msgctxt "group admin edit screen"
+msgid "BP Checkins"
+msgstr "BP Checkins"
+
+#: includes/bp-checkins-group-class.php:89
+msgid "Activate checkins & places"
+msgstr "Activer les checkins et les places"
+
+#: includes/bp-checkins-group-class.php:130 templates/bp-checkins.php:67
+msgid "Friends checkins"
+msgstr "Checkins de mes amis"
+
+#: includes/bp-checkins-places-widget.php:26
+msgid "Displays live, upcoming or regular community places"
+msgstr "Affiche les places live, dont le live est à venir ou classiques"
+
+#: includes/bp-checkins-places-widget.php:72
+#: includes/bp-checkins-places-widget.php:76
+msgid "%s&#039;s places"
+msgstr "les places de %s"
+
+#: includes/bp-checkins-places-widget.php:110
+msgid "Sorry, there was no places found."
+msgstr "Désolé, aucune place trouvée"
+
+#: includes/bp-checkins-places-widget.php:146
+msgid "Title:"
+msgstr "Titre:"
+
+#: includes/bp-checkins-places-widget.php:148
+msgid "Max places to show:"
+msgstr "Nombre de places à afficher:"
+
+#: includes/bp-checkins-places-widget.php:150
+msgid "Places type:"
+msgstr "Type de place:"
+
+#: includes/bp-checkins-places-widget.php:158
+msgid "Show places from the user or the group displayed:"
+msgstr "Afficher les places de l'utilisateur ou du groupe affiché:"
+
+#: includes/bp-checkins-screens.php:107
+msgid "Checkins Settings"
+msgstr "Paramètres Checkins"
+
+#: includes/bp-checkins-screens.php:111
+msgid "You have a foursquare account ?"
+msgstr "Vous avez un compte Foursquare ?"
+
+#: includes/bp-checkins-screens.php:118
+msgid "Your account is connected to this website."
+msgstr "Votre compte est associé à ce site"
+
+#: includes/bp-checkins-screens.php:124
+msgid "Import your new foursquare checkins"
+msgstr "Importer vos nouveaux checkins Foursquare"
+
+#: includes/bp-checkins-screens.php:129
+msgid "Let's connect foursquare checkins to this website !"
+msgstr "Et si vous connectiez Foursquare à ce site !"
+
+#: includes/bp-checkins-screens.php:283 templates/bp-checkins.php:22
+msgid "Checkins & Places"
+msgstr "Checkins et Places"
+
+#: includes/bp-checkins-screens.php:286 includes/bp-checkins-shared.php:108
+#: templates/bp-checkins-post-form.php:22
+msgid "Where are you ?"
+msgstr "Où êtes-vous ?"
+
+#: includes/bp-checkins-screens.php:364
+msgid "Browse Place categories"
+msgstr "Parcourir les catégories de Place"
+
+#: includes/bp-checkins-shared.php:86 includes/bp-checkins-shared.php:114
+msgid "Add a check-in!"
+msgstr "Ajouter un checkin !"
+
+#: includes/bp-checkins-shared.php:87 includes/bp-checkins-shared.php:115
+msgid "View on map"
+msgstr "Voir sur la carte"
+
+#: includes/bp-checkins-shared.php:88 includes/bp-checkins-shared.php:116
+#: includes/bp-checkins-template.php:67
+msgid "Search address"
+msgstr "Rechercher une adresse"
+
+#: includes/bp-checkins-shared.php:89 includes/bp-checkins-shared.php:117
+msgid "Edit your position"
+msgstr "Modifier votre position"
+
+#: includes/bp-checkins-shared.php:90
+msgid "Refresh your position"
+msgstr "Mettre à jour votre position"
+
+#: includes/bp-checkins-shared.php:91 includes/bp-checkins-shared.php:119
+msgid "OOps, we could not geocode your address for this reason"
+msgstr ""
+"OOps, nous ne sommes pas parvenus à géocoder votre adresse pour cette raison"
+
+#: includes/bp-checkins-shared.php:92 includes/bp-checkins-shared.php:120
+msgid "type your address"
+msgstr "Renseigner votre adresse"
+
+#: includes/bp-checkins-shared.php:93 includes/bp-checkins-shared.php:121
+msgid ""
+"OOps, we could not localized you, you can search for your address in the "
+"field that received the focus."
+msgstr ""
+"OOps, nous ne sommes pas parvenus à vous localiser, vous pouvez utiliser le "
+"champ qui a été activé pour rechercher votre position"
+
+#: includes/bp-checkins-shared.php:94 includes/bp-checkins-shared.php:131
+#: js/img/box.php:37
+msgid "Add a photo"
+msgstr "Ajouter une image"
+
+#: includes/bp-checkins-shared.php:95 includes/bp-checkins-shared.php:132
+msgid "Insert this photo"
+msgstr "Insérer cette image"
+
+#: includes/bp-checkins-shared.php:96
+msgid "Add your content here.."
+msgstr "Ajouter votre contenu ici.."
+
+#: includes/bp-checkins-shared.php:97
+msgid "is required"
+msgstr "est requis"
+
+#: includes/bp-checkins-shared.php:99 includes/bp-checkins-shared.php:135
+msgid "Upload"
+msgstr "Transférer"
+
+#: includes/bp-checkins-shared.php:100 includes/bp-checkins-shared.php:136
+msgid "Please select an image file only."
+msgstr "Merci d&#39;utiliser un fichier image"
+
+#: includes/bp-checkins-shared.php:101 includes/bp-checkins-shared.php:137
+msgid "Use external url"
+msgstr "Ajouter un lien externe"
+
+#: includes/bp-checkins-shared.php:102 includes/bp-checkins-shared.php:138
+msgid "Paste the url to your image here"
+msgstr "Coller le lien vers votre image"
+
+#: includes/bp-checkins-shared.php:103 includes/bp-checkins-shared.php:139
+msgid "Please add an url to an image."
+msgstr "Merci d&#39;ajouter un lien pour votre image"
+
+#: includes/bp-checkins-shared.php:105 includes/bp-checkins-shared.php:141
+msgid "Your image is too big, please reduce it (max file size : "
+msgstr ""
+"Votre image est trop lourde, merci de l&#39;optimiser (taille max autorisée :"
+
+#: includes/bp-checkins-shared.php:106
+msgid "Please localize yourself to enable this field"
+msgstr "Merci de vous localiser pour activer ce champ"
+
+#: includes/bp-checkins-shared.php:107
+#: templates/bp-checkins-places-form.php:24
+msgid "What about sharing a new place with the community ?"
+msgstr "Une place à partager avec la communauté ?"
+
+#: includes/bp-checkins-shared.php:118
+msgid "Cancel this check-in"
+msgstr "Annuler ce check-in"
+
+#: includes/bp-checkins-shared.php:133
+msgid "Please wait 12 hours before checking in again.."
+msgstr ""
+"Merci de patienter 12 heures avant de pouvoir faire un nouveau checkin ici.."
+
+#: includes/bp-checkins-shared.php:144
+msgid "Place is live : next refresh"
+msgstr "La Place est Live : prochaine mise à jour"
+
+#: includes/bp-checkins-shared.php:145
+msgid "Live is finished !"
+msgstr "Le live est fini !"
+
+#: includes/bp-checkins-shared.php:420
+msgid "Center the map on this friend"
+msgstr "Centrer la carte sur cet ami"
+
+#: includes/bp-checkins-template.php:58
+msgid "Name of your place"
+msgstr "Nom de votre place"
+
+#: includes/bp-checkins-template.php:66
+msgid "Address of your place"
+msgstr "Adresse de votre place"
+
+#: includes/bp-checkins-template.php:82
+msgid "Choose a category for your place"
+msgstr "Choisissez une catégorie pour votre place"
+
+#: includes/bp-checkins-template.php:102
+msgid "Choose a type for your place"
+msgstr "Choisissez un type pour votre place"
+
+#: includes/bp-checkins-template.php:104
+msgid "Regular place"
+msgstr "Place classique"
+
+#: includes/bp-checkins-template.php:105
+msgid "Live place"
+msgstr "Place live"
+
+#: includes/bp-checkins-template.php:108
+msgid "Define the begining date"
+msgstr "Définissez la date de début"
+
+#: includes/bp-checkins-template.php:109 includes/bp-checkins-template.php:112
+msgid "YYYY-MM-DD"
+msgstr "AAAA-MM-JJ"
+
+#: includes/bp-checkins-template.php:110 includes/bp-checkins-template.php:113
+msgid "HH:MM"
+msgstr "HH:MM"
+
+#: includes/bp-checkins-template.php:111
+msgid "Define the ending date"
+msgstr "Définissez la date de fin"
+
+#: includes/bp-checkins-template.php:439
+msgid "%1$s added a place in the group %2$s"
+msgstr "%1$s a ajouté une place au groupe %2$s"
+
+#: includes/bp-checkins-template.php:441
+msgid "%s added a place"
+msgstr "%s a ajouté une place"
+
+#: includes/bp-checkins-template.php:494
+msgid "Place is live!"
+msgstr "La place est live!"
+
+#: includes/bp-checkins-template.php:497
+msgid "Place will be live in %s"
+msgstr "La place sera live dans %s"
+
+#: includes/bp-checkins-template.php:500
+msgid "Live ended %s ago"
+msgstr "Le live s'est terminé il y a %s"
+
+#: includes/bp-checkins-template.php:705
+msgid "Great! Some of your friends checked in this place."
+msgstr "Génial! Certains de vos amis ont fait un check-in sur cette place."
+
+#: js/img/box.php:88
+msgid "Your image was successfully uploaded"
+msgstr "Votre image a bien été transférée"
+
+#: js/img/box.php:99
+msgid "Alternative text"
+msgstr "Texte de remplacement"
+
+#: js/img/box.php:102 js/img/box.php:199
+msgid "Image alignment"
+msgstr "Alignement de l&#39;image"
+
+#: js/img/box.php:105 js/img/box.php:202
+msgid "None"
+msgstr "Aucun"
+
+#: js/img/box.php:108 js/img/box.php:205
+msgid "Left"
+msgstr "Gauche"
+
+#: js/img/box.php:111 js/img/box.php:208
+msgid "Right"
+msgstr "Droite"
+
+#: js/img/box.php:114 js/img/box.php:211
+msgid "Center"
+msgstr "Centre"
+
+#: js/img/box.php:121
+msgid "Image Size"
+msgstr "Taille de l&#39;image"
+
+#: js/img/box.php:130
+msgid "Medium"
+msgstr "Moyenne"
+
+#: js/img/box.php:135
+msgid "Large size"
+msgstr "Large"
+
+#: js/img/box.php:139
+msgid "Full size"
+msgstr "Complète"
+
+#: js/img/box.php:146
+msgid "Insert Image"
+msgstr "Insérer Image"
+
+#: js/img/box.php:147
+msgid "Use as featured"
+msgstr "Utiliser comme image à la une"
+
+#: js/img/box.php:147
+msgid "Remove featured"
+msgstr "Retirer cette image de la une"
+
+#: js/img/box.php:147
+msgid "Close"
+msgstr "Fermer"
+
+#: js/img/box.php:160
+msgid ""
+"Something went wrong with your upload, only images under %d%s can be "
+"uploaded.."
+msgstr ""
+"Une erreur est survenue lors du transfert de votre image, seules les images "
+"de moins de %d%s peuvent être transférée"
+
+#: js/img/box.php:166
+msgid "Upload your photo"
+msgstr "Transférer une image"
+
+#: js/img/box.php:168
+msgid "Maximum upload file size: %d%s"
+msgstr "Taille max des fichiers transférés : %d%s"
+
+#: js/img/box.php:169
+msgid "Or"
+msgstr "Ou"
+
+#: js/img/box.php:170
+msgid "Add external url"
+msgstr "Ajouter un lien externe"
+
+#: js/img/box.php:177
+msgid "Url to your image"
+msgstr "Lien vers votre image"
+
+#: js/img/box.php:185
+msgid "Text replacement for your picture"
+msgstr "Texte de remplacement pour votre image"
+
+#: js/img/box.php:189
+msgid "Image original height"
+msgstr "Hauteur d&#39;origine de l&#39;image"
+
+#: js/img/box.php:190
+msgid "Image original width"
+msgstr "Largeur d&#39;origine de l&#39;image"
+
+#: js/img/box.php:193
+msgid "Width in pixels for your picture (only numbers)"
+msgstr "Largeur en pixels de votre image (seulement les chiffres)"
+
+#: js/img/box.php:218
+msgid "Add Picture"
+msgstr "Ajouter une image"
+
+#: js/img/box.php:219 js/link/box.php:35
+msgid "Cancel"
+msgstr "Annuler"
+
+#: js/img/box.php:310
+msgid "You must add a well formed url to your picture beginning by http://"
+msgstr ""
+"Vous devez utiliser une url bien formée pour votre image, et commençant par "
+"http://"
+
+#: js/img/box.php:316
+msgid ""
+"You must add a well formed url to your picture with only one reference to "
+"http://"
+msgstr ""
+"Vous devez ajouter une url bien formée pour votre image avec une seule "
+"référence au protocole http://"
+
+#: js/img/box.php:322
+msgid "Please add the url of your picture"
+msgstr "Merci d&#39;ajouter le lien vers votre image"
+
+#: js/link/box.php:13 js/link/box.php:34
+msgid "Add link"
+msgstr "Ajouter un lien"
+
+#: js/link/box.php:22
+msgid "Url of your link"
+msgstr "Url de votre lien"
+
+#: js/link/box.php:26
+msgid "Caption of your link (selected text by default)"
+msgstr "Alias de votre lien (texte sélectionné par défaut)"
+
+#: js/link/box.php:30
+msgid "Tooltip (or title) of your link (selected text by default)"
+msgstr "Info Bulle (ou titre) de votre lien (texte sélectionné par défaut)"
+
+#: js/link/box.php:55
+msgid "You must add a well formed url beginning par http://"
+msgstr "Vous devez ajouté une url bien formée commençant par http://"
+
+#: js/link/box.php:61
+msgid "You must add a well formed url with only one reference to http://"
+msgstr ""
+"Vous devez ajouté une url bien formée avec une seule référence au protocole "
+"http://"
+
+#: js/link/box.php:67
+msgid "Please add an url."
+msgstr "Merci d&#39;ajouter une url"
+
+#: templates/bp-checkins-place-category.php:26
+#: templates/bp-checkins-place-category.php:59
+msgid "You are browsing the archive for %1$s places."
+msgstr "Vous parcourez les archives des places classées sous : %1$s"
+
+#: templates/bp-checkins-place-comments.php:5
+msgid "You must be a member of %s to check in this place or post a comment."
+msgstr ""
+"Vous devez être membre de %s pour pouvoir ajouter un checkin ou commenter "
+"cette place"
+
+#: templates/bp-checkins-place-comments.php:16
+msgid ""
+"<a href=\"#\" class=\"add-checkin without\">Check-in</a><a href=\"#\" class="
+"\"add-checkin with\">Comment &amp; check-in</a>"
+msgstr ""
+"<a href=\"#\" class=\"add-checkin without\">Ajouter un checkin</a><a href=\"#"
+"\" class=\"add-checkin with\">Commenter &amp; ajouter un checkin</a>"
+
+#: templates/bp-checkins-place-comments.php:30
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=\"%s\">authentifié</a> pour commenter."
+
+#: templates/bp-checkins-place-comments.php:36
+msgid "Password Protected"
+msgstr "Protégé par un mot de passe"
+
+#: templates/bp-checkins-place-comments.php:37
+msgid "Enter the password to view comments."
+msgstr "Entrez le mot de passe pour voir les commentaires"
+
+#: templates/bp-checkins-place-comments.php:57
+msgid "<span>1</span> response to %2$s"
+msgid_plural "<span>%1$s</span> responses to %2$s"
+msgstr[0] "<span>1</span> réponse à %2$s"
+msgstr[1] "<span>%1$s</span> réponses à %2$s"
+
+#: templates/bp-checkins-place-comments.php:79
+msgid ""
+"Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this post"
+"\">trackbacks</a> and pingbacks are open."
+msgstr ""
+"Les commentaires sont fermés, mais les <a href=\"%1$s\" title=\"Trackback "
+"URL pour cet article\">trackbacks</a> et pingbacks sont ouverts."
+
+#: templates/bp-checkins-place-comments.php:83
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: templates/bp-checkins-place-comments.php:91
+msgid "1 trackback"
+msgid_plural "%d trackbacks"
+msgstr[0] "1 trackback"
+msgstr[1] "%d trackbacks"
+
+#: templates/bp-checkins-place-home.php:44
+msgid "Or browse places by category"
+msgstr "Ou Parcourez les catégories"
+
+#: templates/bp-checkins-place-single.php:68
+#: templates/bp-checkins-places-entry.php:47
+msgid "Checkin <span>%s</span> &amp; Comment <span>%s</span>"
+msgstr "Checkin <span>%s</span> &amp; Commenter <span>%s</span>"
+
+#: templates/bp-checkins-place-single.php:113
+#: templates/bp-checkins-places-loop.php:47
+msgid "Sorry, there was no places found. Please try a different filter."
+msgstr "Désolé, aucune place n&#39; a été trouvée. Essayez un autre filtre."
+
+#: templates/bp-checkins-places-form.php:33
+msgid "Description of your place"
+msgstr "Description de votre place"
+
+#: templates/bp-checkins-places-form.php:41
+msgid "Remove Featured Image"
+msgstr "Retirer cette image de la une"
+
+#: templates/bp-checkins-places-form.php:59
+msgid "Post Place"
+msgstr "Poster la place"
+
+#: templates/bp-checkins-places-form.php:66
+#: templates/bp-checkins-post-form.php:43
+msgid "Post in"
+msgstr "Poster dans"
+
+#: templates/bp-checkins-places-form.php:69
+msgid "Places Directory"
+msgstr "Mon profil"
+
+#: templates/bp-checkins-places-loop.php:33
+msgid "Load More"
+msgstr "En afficher plus"
+
+#: templates/bp-checkins-post-form.php:29
+msgid ""
+"Javascript is necessary for this component, please enable it in your browser "
+"options"
+msgstr ""
+"Javascript est nécessaire à l'&#39;exécution de ce composant, merci de l&#39;"
+"activer dans votre navigateur"
+
+#: templates/bp-checkins-post-form.php:36
+msgid "Post Checkin"
+msgstr "Poster le Checkin"
+
+#: templates/bp-checkins-post-form.php:46
+msgid "My Profile"
+msgstr "Mon profil"
+
+#. Plugin Name of the plugin/theme
+msgid "BP checkins"
+msgstr "BP checkins"
+
+#. Plugin URI of the plugin/theme
+msgid "http://imathi.eu/tag/bp-checkins/"
+msgstr "http://imathi.eu/tag/bp-checkins/"
+
+#. Description of the plugin/theme
+msgid "BuddyPress component to share checkins and places"
+msgstr "Composant BuddyPress permettant de partager des checkins et des places"
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr "imath"
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu"
+msgstr "http://imathi.eu"
+
+#~ msgid "Sorry, there was no checkins found. Please try a different filter."
+#~ msgstr "Désolé, aucun checkin n&#39;a été trouvé, essayez un autre filtre"

@@ -1,0 +1,24 @@
+.widget_show_friends .friends-container {
+	margin-top:0.8em;
+}
+
+.widget_show_friends .friends-container ul li.bpsf-member {
+	margin:0.2em;
+	list-style: none;
+	float:left;
+}
+
+.widget_show_friends .friends-container p{
+	margin:2em;
+	text-align:center;
+}
+
+.widget_show_friends .friends-container p span.loader{
+	display:inline-block;
+	width:14px;
+	background: url( '../images/ajax-loader.gif' ) no-repeat;
+}
+
+.widget_show_friends .bpsf-list-options a.current{
+	font-weight: bold;
+}

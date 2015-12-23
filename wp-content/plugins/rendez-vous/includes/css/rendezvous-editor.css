@@ -1,0 +1,377 @@
+#wrap {
+	width: 100%;
+}
+
+.rendez-vous-frame {
+	margin:1em;
+}
+
+.rendez-vous-frame ul {
+	list-style: none;
+}
+
+.rendez-vous-frame .list-rdv-fields .required{
+	color:inherit;
+	border:solid 1px #21759b;
+}
+
+.rendez-vous-frame .list-rdv-fields input.required:focus {
+	border:solid 1px #dfdfdf;
+}
+
+.media-toolbar-secondary #member-type-filters {
+	margin-right:0;
+	margin-top: 15px;
+}
+
+.list-rdv-fields li {
+	padding:0.5em 0;
+	list-style: none;
+}
+
+.list-rdv-fields li label,
+.list-rdv-days div.daytd label {
+	display:block;
+	font-weight: bold;
+	margin-bottom:0.5em;
+}
+
+.list-rdv-fields li input[type=text], .list-rdv-fields li textarea {
+	width:70%;
+}
+
+.list-rdv-fields li input.duree{
+	width:50px;
+}
+
+.list-rdv-days fieldset {
+	border: 1px solid #eee;
+	padding: 10px 20px;
+	margin-bottom: 10px;
+	margin-right:320px;
+}
+
+.list-rdv-days fieldset legend.dayth {
+	padding: 5px;
+}
+
+.list-rdv-days fieldset input[type=time] {
+	font-size: inherit;
+	width:30%;
+}
+
+.list-rdv-days a.trashday {
+	text-decoration:none;
+}
+
+.list-rdv-days li div.use-calendar {
+	margin: 20% 0;
+	margin-right: 300px;
+	text-align:center;
+}
+
+.list-rdv-days li h3.calendar-instructions {
+	font-size: 14px;
+	color: #464646;
+	font-weight: normal;
+}
+
+
+.list-rdv-days a.trashday span:before {
+	font-family: dashicons;
+	font-size: 18px;
+	vertical-align: bottom;
+	margin-right: 5px;
+	content: "\f182";
+}
+
+.rdv-calendar {
+	margin:1em 0;
+}
+
+.rdv-calendar .ui-datepicker {
+	padding: 0;
+}
+
+.rdv-calendar .ui-widget-content {
+	border: none;
+	background: #fff;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,.19);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.19);
+	box-shadow: 0 1px 3px rgba(0,0,0,.19);
+}
+
+.rdv-calendar .ui-datepicker-calendar {
+	width:100%;
+}
+
+.rdv-calendar .ui-datepicker-calendar th,
+.rdv-calendar .ui-datepicker-calendar td {
+	text-align: center;
+}
+
+.rdv-calendar .ui-datepicker-calendar td a {
+	display:block;
+	width:100%;
+	height:2em;
+	line-height: 2em;
+	text-decoration:none;
+}
+
+.rdv-calendar .ui-datepicker-header {
+	color: #fff;
+	padding: 0;
+	border-top: 1px solid #298cba;
+	border-bottom: none;
+	overflow: hidden;
+	text-transform: uppercase;
+	text-shadow: 0 -1px 0 rgba(0,0,0,.35);
+	border-radius: 3px 3px 0 0;
+	-webkit-border-radius: 3px 3px 0 0;
+	-moz-border-radius: 3px 3px 0 0;
+	background:#21759b;
+}
+
+.rdv-calendar .ui-datepicker-header .ui-state-hover {
+	background: transparent;
+	border-color: transparent;
+	cursor: pointer;
+}
+
+.rdv-calendar .ui-datepicker .ui-datepicker-title {
+	line-height: 2.2em;
+	font-weight: normal;
+	text-align:center;
+}
+
+.rdv-calendar .ui-datepicker .ui-datepicker-prev,
+.rdv-calendar .ui-datepicker .ui-datepicker-next {
+	top: -1px;
+	background: #298cba;
+	border-radius: 0;
+	font-weight: normal;
+	border: none;
+	height: 2.2em;
+	width: 1.4em;
+}
+
+.rdv-calendar .ui-datepicker .ui-datepicker-prev.ui-state-hover,
+.rdv-calendar .ui-datepicker .ui-datepicker-next.ui-state-hover {
+	background: #21759b;
+}
+
+.rdv-calendar .ui-datepicker .ui-datepicker-prev {
+	left: 0;
+	border-right: 1px solid #94cde7;
+	float:left;
+}
+
+.rdv-calendar .ui-datepicker .ui-datepicker-next {
+	right: 0;
+	border-left: 1px solid #94cde7;
+	float:right;
+}
+
+.rdv-calendar .ui-datepicker .ui-datepicker-prev span,
+.rdv-calendar .ui-datepicker .ui-datepicker-next span {
+	margin-top: 2px;
+	text-indent:-9999px;
+	display:block;
+}
+
+.rdv-calendar .ui-icon-circle-triangle-e {
+	background-image: url(images/ui-icons_ffffff_256x240.png);
+	background-position: -32px 0;
+}
+
+.rdv-calendar .ui-icon-circle-triangle-w {
+	background-image: url(images/ui-icons_ffffff_256x240.png);
+	background-position: -96px 0;
+}
+
+.rdv-calendar .ui-datepicker table {
+	margin: 0;
+}
+
+.rdv-calendar .ui-datepicker th {
+	padding: .6em 0 .4em;
+	text-transform: uppercase;
+	color:#21759b;
+	font-weight: thin;
+	font-size: .8em;
+	border-top: 1px solid #e6e6e6;
+}
+
+.rdv-calendar .ui-datepicker td {
+	border: none;
+	border-top: 1px solid #e6e6e6;
+	border-right: 1px solid #e6e6e6;
+	padding: 0;
+}
+
+.rdv-calendar td:last-child {
+	border-right: 0;
+}
+
+.rdv-calendar td .ui-state-default {
+	background: transparent;
+	border: none;
+	color: #2b2b2b;
+	margin: 0;
+	font-weight: normal;
+	text-align: center;
+}
+
+.rdv-calendar .ui-datepicker-calendar .ui-state-hover {
+	background: #298cba;
+	color: #fff;
+}
+
+.rdv-calendar td a.ui-state-active,
+.rdv-calendar td a.ui-state-active.ui-state-hover {
+	color: #fff;
+	text-shadow: 0 -1px 0 rgba(0,0,0,.45);
+	background: #21759b;
+}
+
+.rendez-vous-frame .list-rendez-vous-users {
+	position: absolute;
+	top: 50px;
+	padding:10px;
+	left: 0;
+	bottom: 0;
+	overflow: hidden;
+	width:95%;
+}
+
+.thumbnail img {
+	width:50px;
+	height:50px;
+}
+
+.rendez-vous-users .attachment-preview {
+	max-height:50px;
+}
+
+.rendez-vous-users .user .avatar,
+.rendez-vous-users .user .displayname {
+	float:left;
+}
+.rendez-vous-users .user .displayname {
+	margin-left:55px;
+	margin-right:5px;
+	height:50px;
+	text-align: left;
+
+}
+.rendez-vous-users .user .displayname strong{
+	font-weight:bold;
+	display:inline-block;
+	height:100%;
+	line-height:45px;
+	white-space: nowrap;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+}
+
+.user-selection {
+	top: 0;
+	left: 0;
+	right: 180px;
+	height: 60px;
+	padding: 0 0 0 16px;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.user-selection .selection-info {
+	display: inline-block;
+	font-size: 12px;
+	height: 60px;
+	margin-right: 10px;
+	vertical-align: top;
+}
+
+.user-selection .count {
+	display: block;
+	padding-top: 12px;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: bold;
+}
+
+.user-selection .selection-info a {
+	display: block;
+	float: left;
+	padding: 1px 8px;
+	margin: 1px 8px 1px -8px;
+	line-height: 16px;
+	text-decoration: none;
+	color: #21759B;
+}
+
+.user-selection .selection-info .clear-selection {
+	color:red;
+}
+
+.user-selection .selection-view{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.user-selection .selection-view ul {
+	display: inline-block;
+	height: 48px;
+	margin-top: 5px;
+	overflow: hidden;
+	vertical-align: top;
+}
+
+.user-selection .selection-view ul li{
+	margin: 5px;
+	width: 38px;
+	float:left;
+	box-shadow: 0 0 0 1px #fff, 0 0 0 2px #1e8cbe;
+	list-style: none;
+}
+
+.user-selection .selection-view ul li img {
+	width:38px;
+}
+
+.user-selection.empty {
+	display: none;
+}
+
+#rendez-vous-error {
+	margin: 0 0 15px;
+}
+
+#rendez-vous-error p{
+	font-weight:bold;
+	font-size: 90%;
+	display: block;
+	padding: 10px 15px;
+	background-color: #fdc;
+	border: 1px solid #a00;
+	clear: left;
+	color: #800;
+}
+
+.media-modal span.screen-reader-text {
+	display:none;
+}
+
+.smaller {
+	top:    100px;
+	right:  350px;
+	bottom: 100px;
+	left:   350px;
+}
+
+.smaller {
+	top:    10%;
+	right:  15%;
+	bottom: 10%;
+	left:   15%;
+}

@@ -1,0 +1,95 @@
+# Translation of the WordPress plugin bp-show-friends by imath (twitter.com/imath).
+# Copyright (C) 2010 imath (twitter.com/imath)
+# This file is distributed under the same license as bp-my-home package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bp-show-friends 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-show-friends\n"
+"POT-Creation-Date: 2013-11-24 20:45:19+00:00\n"
+"PO-Revision-Date: 2013-11-24 21:47+0100\n"
+"Last-Translator: imath <mathchristo@yahoo.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: bp-show-friends.php:174
+msgid ""
+"BP Show Friends requires BuddyPress version %s, please upgrate or download "
+"and install a previous version of it."
+msgstr ""
+
+#: bp-show-friends.php:205
+msgid ""
+"Show the friends of the loggedin user or of the displayed user if in the "
+"member area"
+msgstr ""
+"Mostra gli amici dell'utente collegato o mostrare gli amici del utente che "
+"si visualizza"
+
+#: bp-show-friends.php:206
+#, fuzzy
+msgctxt "widget name"
+msgid "BP Show Friends"
+msgstr "Amici"
+
+#: bp-show-friends.php:248
+msgid "My Friends - <a href=\"%1$s\">All (%2$s)</a>"
+msgstr "Miei Amici - <a href=\"%1$s\">tutti (%2$s)</a>"
+
+#: bp-show-friends.php:250
+msgid "%1$s&apos;s Friends - <a href=\"%2$s\">All (%3$s)</a>"
+msgstr "Gli Amici - <a href=\"%2$s\">Tutti (%3$s)</a>"
+
+#: bp-show-friends.php:255
+msgid "Recently Actives"
+msgstr "Recentemente Attivi "
+
+#: bp-show-friends.php:256
+msgid "Online Friends"
+msgstr "Amici in linea"
+
+#: bp-show-friends.php:298
+msgid "No friends!"
+msgstr "Nessuno amico!"
+
+#: bp-show-friends.php:304
+msgid "No online friends!"
+msgstr "Nessun Amico in linea!"
+
+#: bp-show-friends.php:382
+msgid "Max Number of Avatars:"
+msgstr "Numero Massimo di Avatar"
+
+#: bp-show-friends.php:388
+msgid "Avatar size (in pixels)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "BP Show Friends"
+msgstr "Amici"
+
+#. Plugin URI of the plugin/theme
+msgid "http://imathi.eu/tag/bp-show-friends/"
+msgstr ""
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Displays the friends of the logged in user or of the displayed user once in "
+"BuddyPress Member area"
+msgstr ""
+"Mostra gli amici dell'utente collegato o mostrare gli amici del utente che "
+"si visualizza"
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu/"
+msgstr ""

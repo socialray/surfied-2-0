@@ -1,0 +1,248 @@
+# Copyright (C) 2015 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/anspress-question-"
+"answer\n"
+"POT-Creation-Date: 2015-08-20 14:18-0400\n"
+"PO-Revision-Date: 2015-08-21 07:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: anspress_email.php:134
+msgid "New question posted by {asker}"
+msgstr "Nouvelle question publiée par {asker}"
+
+#: anspress_email.php:135
+msgid ""
+"Hello!\r\n"
+"A new question is posted by {asker}\r\n"
+"\r\n"
+"Title: {question_title}\r\n"
+"Description:\r\n"
+"{question_excerpt}\r\n"
+"\r\n"
+"Link: {question_link}"
+msgstr ""
+"Bonjour!\n"
+"Une nouvelle question a été publiée par {asker}\n"
+"\n"
+"Titre : {question_title}\n"
+"Description :\n"
+"{question_excerpt}\n"
+"\n"
+"Lien : {question_link}"
+
+#: anspress_email.php:137
+msgid "New answer posted by {answerer}"
+msgstr "Nouvelle réponse publiée par {answerer}"
+
+#: anspress_email.php:138
+msgid ""
+"Hello!\r\n"
+"A new answer is posted by {answerer} on {question_title}\r\n"
+"Answer:\r\n"
+"{answer_excerpt}\r\n"
+"\r\n"
+"Link: {answer_link}"
+msgstr ""
+"Bonjour!\n"
+"Une nouvelle réponse a été publiée par {answerer} sur {question_title}\n"
+"Réponse :\n"
+"{answer_excerpt}\n"
+"\n"
+"Lien : {answer_link}"
+
+#: anspress_email.php:140
+msgid "Your answer is selected as best"
+msgstr "Votre réponse a été sélectionnée comme la meilleure"
+
+#: anspress_email.php:141
+msgid ""
+"Hello!\r\n"
+"Your answer on '{question_title}' is selected as best.\r\n"
+"\r\n"
+"Link: {answer_link}"
+msgstr ""
+"Bonjour!\n"
+"Votre réponse sur '{question_title}' a été sélectionnée comme la "
+"meilleure.\n"
+"\n"
+"Lien : {answer_link}"
+
+#: anspress_email.php:143
+msgid "New comment by {commenter}"
+msgstr "Nouveau commentaire par {commenter}"
+
+#: anspress_email.php:144
+msgid ""
+"Hello!\r\n"
+"A new comment posted on '{question_title}' by {commenter}.\r\n"
+"\r\n"
+"Link: {comment_link}"
+msgstr ""
+"Bonjour!\n"
+"Un nouveau commentaire a été publiée sur '{question_title}' par "
+"{commenter}.\n"
+"\n"
+"Lien : {comment_link}"
+
+#: anspress_email.php:146
+msgid "A question is edited by {editor}"
+msgstr "Une question a été modifiée par {editor}"
+
+#: anspress_email.php:147
+msgid ""
+"Hello!\r\n"
+"Question '{question_title}' is edited by {editor}.\r\n"
+"\r\n"
+"Link: {question_link}"
+msgstr ""
+"Bonjour!\n"
+"La question '{question_title}' a été modifiée par {editor}.\n"
+"\n"
+"Link: {question_link}"
+
+#: anspress_email.php:149
+msgid "An answer is edited by {editor}"
+msgstr "Une réponse a été modifiée par {editor}"
+
+#: anspress_email.php:150
+msgid ""
+"Hello!\r\n"
+"Answer on '{question_title}' is edited by {editor}.\r\n"
+"\r\n"
+"Link: {question_link}"
+msgstr ""
+"Bonjour!\n"
+"La réponse sur '{question_title}' a été modifiée par {editor}.\n"
+"\n"
+"Lien : {question_link}"
+
+#: anspress_email.php:152
+msgid "A question is trashed by {user}"
+msgstr "Une question a été supprimée par {user}"
+
+#: anspress_email.php:153
+msgid ""
+"Hello!\r\n"
+"Question '{question_title}' is trashed by {user}.\r\n"
+msgstr ""
+"Bonjour!\n"
+"La question '{question_title}' a été supprimée par {user}.\n"
+
+#: anspress_email.php:155
+msgid "An answer is trashed by {user}"
+msgstr "Une réponse a été supprimée par {user}"
+
+#: anspress_email.php:156
+msgid ""
+"Hello!\r\n"
+"Answer on '{question_title}' is trashed by {user}.\r\n"
+msgstr ""
+"Bonjour!\n"
+"La réponse sur '{question_title}' a été supprimée par {user}.\n"
+
+#: anspress_email.php:172
+msgid "Email"
+msgstr "Email"
+
+#: anspress_email.php:175
+msgid "Admin email"
+msgstr "Email de l'administrateur"
+
+#: anspress_email.php:176
+msgid "Enter emial where admin notification were send"
+msgstr "Email de l'administrateur pour recevoir les notifications"
+
+#: anspress_email.php:192
+msgid "Notify admin"
+msgstr "Notifier l'administrateur"
+
+#: anspress_email.php:196 anspress_email.php:253
+msgid "New question"
+msgstr "Nouvelle question"
+
+#: anspress_email.php:197
+msgid "Send email to admin for every new question."
+msgstr "Envoyer un email à l'administrateur pour chaque nouvelle question."
+
+#: anspress_email.php:204
+msgid "New answer"
+msgstr "Nouvelle réponse"
+
+#: anspress_email.php:205
+msgid "Send email to admin for every new answer."
+msgstr "Envoyer un email à l'administrateur pour chaque nouvelle réponse."
+
+#: anspress_email.php:212 anspress_email.php:310
+msgid "New comment"
+msgstr "Nouveau commentaire"
+
+#: anspress_email.php:213
+msgid "Send email to admin for every new comment."
+msgstr "Envoyer un email à l'administrateur pour chaque nouveau commentaire."
+
+#: anspress_email.php:220 anspress_email.php:329
+msgid "Edit question"
+msgstr "Modification d'une question"
+
+#: anspress_email.php:221
+msgid "Send email to admin when question is edited"
+msgstr "Envoyer un email à l'administrateur lorsqu'une question est modifiée"
+
+#: anspress_email.php:228 anspress_email.php:348
+msgid "Edit answer"
+msgstr "Modification d'une réponse"
+
+#: anspress_email.php:229
+msgid "Send email to admin when answer is edited"
+msgstr "Envoyer un email à l'administrateur lorsqu'une réponse est modifiée"
+
+#: anspress_email.php:236
+msgid "Delete question"
+msgstr "Supprimer la question"
+
+#: anspress_email.php:237
+msgid "Send email to admin when question is trashed"
+msgstr "Envoyer un email à l'administrateur lorsqu'une question est supprimée"
+
+#: anspress_email.php:244
+msgid "Delete answer"
+msgstr "Supprimer la réponse"
+
+#: anspress_email.php:245
+msgid "Send email to admin when asnwer is trashed"
+msgstr "Envoyer un email à l'administrateur lorsqu'une réponse est supprimée"
+
+#: anspress_email.php:257 anspress_email.php:276 anspress_email.php:295
+#: anspress_email.php:314 anspress_email.php:333 anspress_email.php:352
+msgid "Subject"
+msgstr "Sujet"
+
+#: anspress_email.php:264 anspress_email.php:283 anspress_email.php:302
+#: anspress_email.php:321 anspress_email.php:340 anspress_email.php:359
+msgid "Body"
+msgstr "Message"
+
+#: anspress_email.php:272
+msgid "New Answer"
+msgstr "Nouvelle réponse"
+
+#: anspress_email.php:291
+msgid "Select Answer"
+msgstr "Sélection d'une réponse"
